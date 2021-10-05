@@ -1,0 +1,819 @@
+Car_name,car_model,Onership,Milage,Manufacture_year,fuel_type,Emi,Price,car_name,Model
+ , , , , , , , , , 
+Non-Accidental,2017 Volkswagen Polo,1st Owner,"21,401 km", ,Petrol,"₹13,576/month","₹6,10,299",2017 Volkswagen Polo,COMFORTLINE 1.2L PETROL Manual
+Non-Accidental,2014 Hyundai Eon,1st Owner,"30,303 km", ,Petrol,"₹7,014/month","₹3,15,299",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2017 Maruti Alto 800,2nd Owner,"10,742 km", ,Petrol,"₹7,903/month","₹3,55,299",2017 Maruti Alto 800,LXI Manual
+Non-Accidental,2008 Hyundai Santro Xing,1st Owner,"73,378 km","Year of Purchase
+July 2011",Petrol,"₹5,603/month","₹2,51,899",2008 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2013 Maruti Wagon R 1.0,1st Owner,"52,421 km","Year of Purchase
+June 2017",Petrol,"₹8,282/month","₹3,72,299",2013 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2013 Maruti Alto 800,2nd Owner,"22,219 km","Year of Purchase
+March 2017",Petrol,"₹6,119/month","₹2,75,099",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2011 Maruti Alto K10,1st Owner,"64,152 km","Year of Purchase
+October 2011",Petrol,"₹5,365/month","₹2,41,199",2011 Maruti Alto K10,LXI Manual
+Non-Accidental,2013 Maruti Alto 800,1st Owner,"22,668 km", ,Petrol,"₹6,409/month","₹2,88,099",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2018 Maruti Eeco,1st Owner,"35,283 km","Year of Purchase
+November 2019",Petrol,"₹9,167/month","₹4,12,099",2018 Maruti Eeco,5 STR WITH AC PLUSHTR Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"39,998 km", ,Petrol,"₹6,464/month","₹2,90,599",2016 Maruti Alto 800,LXI Manual
+Non-Accidental,2017 Maruti Swift,1st Owner,"62,328 km", ,Petrol,"₹13,480/month","₹6,05,999",2017 Maruti Swift,ZXI Manual
+Non-Accidental,2015 Maruti Alto 800,1st Owner,"38,418 km", ,Petrol,"₹6,905/month","₹3,10,399",2015 Maruti Alto 800,LXI Manual
+Non-Accidental,2012 Maruti Alto K10,1st Owner,"58,683 km","Year of Purchase
+March 2012",Petrol,"₹6,226/month","₹2,79,899",2012 Maruti Alto K10,VXI Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+September 2017",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2019 Hyundai Elite i20,3rd Owner,"14,912 km","Year of Purchase
+April 2015",Petrol,"₹15,242/month","₹6,85,199",2019 Hyundai Elite i20,1.2 MAGNA PLUS VTVT Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"57,772 km","Year of Purchase
+July 2012",Petrol,"₹5,221/month","₹2,34,699",2010 Maruti Alto,LXI Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"29,928 km","Year of Purchase
+December 2014",Petrol,"₹8,141/month","₹3,65,999",2018 Maruti Alto K10,VXI OPT Manual
+Non-Accidental,2011 Hyundai i10,2nd Owner,"49,870 km","Year of Purchase
+July 2011",Petrol,"₹7,512/month","₹3,37,699",2011 Hyundai i10,MAGNA 1.2 KAPPA2 Manual
+Non-Accidental,2011 Hyundai i10,2nd Owner,"81,632 km","Year of Purchase
+March 2012",Petrol,"₹8,204/month","₹3,68,799",2011 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2015 Maruti Alto K10,2nd Owner,"13,605 km","Year of Purchase
+May 2016",Petrol,"₹8,308/month","₹3,73,499",2015 Maruti Alto K10,VXI AMT Automatic
+Non-Accidental,2015 Tata Nano,1st Owner,"51,207 km","Year of Purchase
+January 2016",Petrol,"₹5,001/month","₹2,24,799",2015 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2014 Maruti Alto K10,2nd Owner,"34,163 km", ,Petrol,"₹7,023/month","₹3,15,699",2014 Maruti Alto K10,VXI Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km", ,Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"76,880 km", ,Petrol,"₹8,758/month","₹3,93,699",2016 Renault Kwid,RXT Opt Manual
+Non-Accidental,2017 Renault Kwid,1st Owner,"8,409 km","Year of Purchase
+April 2018",Petrol,"₹9,271/month","₹4,16,799",2017 Renault Kwid,RXL1.0 EASY-R AT Automatic
+Non-Accidental,2014 Hyundai Xcent,1st Owner,"52,497 km","Year of Purchase
+September 2014",Petrol,"₹11,465/month","₹5,15,399",2014 Hyundai Xcent,SX AT 1.2 OPT Automatic
+Non-Accidental,2010 Hyundai i10,1st Owner,"46,146 km", ,Petrol,"₹7,510/month","₹3,37,599",2010 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"76,880 km","Year of Purchase
+August 2016",Petrol,"₹8,758/month","₹3,93,699",2016 Renault Kwid,RXT Opt Manual
+Non-Accidental,2011 Maruti Alto K10,1st Owner,"39,169 km","Year of Purchase
+April 2011",Petrol,"₹5,893/month","₹2,64,899",2011 Maruti Alto K10,VXI Manual
+Non-Accidental,2013 Maruti Wagon R 1.0,1st Owner,"52,421 km","Year of Purchase
+April 2017",Petrol,"₹8,282/month","₹3,72,299",2013 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"35,445 km","Year of Purchase
+February 2016",Petrol,"₹7,699/month","₹3,46,099",2016 Renault Kwid,RXT Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+November 2010",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"1,14,810 km","Year of Purchase
+March 2014",Petrol,"₹11,907/month","₹5,35,299",2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km", ,Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+November 2012",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"29,928 km","Year of Purchase
+July 2010",Petrol,"₹8,141/month","₹3,65,999",2018 Maruti Alto K10,VXI OPT Manual
+Non-Accidental,2015 Maruti Alto K10,1st Owner,"44,397 km", ,Petrol,"₹7,143/month","₹3,21,099",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2012 Maruti Alto K10,1st Owner,"58,683 km","Year of Purchase
+September 2013",Petrol,"₹6,226/month","₹2,79,899",2012 Maruti Alto K10,VXI Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km","Year of Purchase
+February 2010",Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+January 2013",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"76,880 km", ,Petrol,"₹8,758/month","₹3,93,699",2016 Renault Kwid,RXT Opt Manual
+Non-Accidental,2009 Maruti Alto,2nd Owner,"67,415 km","Year of Purchase
+January 2011",Petrol,"₹4,727/month","₹2,12,499",2009 Maruti Alto,LXI Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"57,772 km","Year of Purchase
+July 2012",Petrol,"₹5,221/month","₹2,34,699",2010 Maruti Alto,LXI Manual
+Non-Accidental,2015 Maruti Wagon R 1.0,1st Owner,"1,11,252 km", ,Petrol,"₹7,917/month","₹3,55,899",2015 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2014 Hyundai Eon,1st Owner,"17,166 km","Year of Purchase
+January 2014",Petrol,"₹7,614/month","₹3,42,299",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2013 Maruti Alto 800,2nd Owner,"18,710 km","Year of Purchase
+November 2012",Petrol,"₹6,371/month","₹2,86,399",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2008 Hyundai Santro Xing,1st Owner,"73,378 km", ,Petrol,"₹5,603/month","₹2,51,899",2008 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2012 Maruti Wagon R 1.0,1st Owner,"53,437 km", ,Petrol,"₹9,452/month","₹4,24,899",2012 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Hyundai Grand i10,1st Owner,"61,025 km", ,Petrol,"₹10,077/month","₹4,52,999",2016 Hyundai Grand i10,MAGNA 1.2 VTVT Manual
+Non-Accidental,2016 Maruti Celerio,2nd Owner,"29,242 km", ,Petrol,"₹10,037/month","₹4,51,199",2016 Maruti Celerio,ZXI AMT Automatic
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"44,013 km","Year of Purchase
+April 2015",Petrol,"₹9,988/month","₹4,48,999",2015 Hyundai Grand i10,SPORTS 1.2 VTVT Manual
+Non-Accidental,2014 Maruti Wagon R 1.0,1st Owner,"45,442 km", ,Petrol,"₹9,897/month","₹4,44,899",2014 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"74,353 km", ,Petrol,"₹13,436/month","₹6,03,999",2015 Hyundai Elite i20,ASTA 1.2 Manual
+Non-Accidental,2010 Hyundai i10,1st Owner,"67,892 km","Year of Purchase
+December 2010",Petrol,"₹6,404/month","₹2,87,899",2010 Hyundai i10,MAGNA 1.2 Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+August 2014",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"26,306 km", ,Petrol,"₹13,965/month","₹6,27,799",2018 Maruti Swift,VXI Manual
+Non-Accidental,2013 Maruti Alto 800,2nd Owner,"22,219 km","Year of Purchase
+March 2017",Petrol,"₹6,119/month","₹2,75,099",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"11,089 km","Year of Purchase
+February 2012",Petrol,"₹13,876/month","₹6,23,799",2018 Maruti Swift,VXI Manual
+Non-Accidental,2013 Hyundai i10,1st Owner,"14,965 km","Year of Purchase
+July 2015",Petrol,"₹10,119/month","₹4,54,899",2013 Hyundai i10,SPORTZ 1.2 AT KAPPA2 Automatic
+Non-Accidental,2016 Maruti Celerio,2nd Owner,"29,242 km", ,Petrol,"₹10,037/month","₹4,51,199",2016 Maruti Celerio,ZXI AMT Automatic
+Non-Accidental,2019 Hyundai Grand i10,1st Owner,"11,850 km", ,Petrol,"₹12,759/month","₹5,73,599",2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2018 Hyundai Grand i10,2nd Owner,"16,018 km","Year of Purchase
+July 2015",Petrol,"₹12,799/month","₹5,75,399",2018 Hyundai Grand i10,Magna 1.2 AT VTVT Automatic
+Non-Accidental,2013 Maruti Ritz,1st Owner,"33,225 km","Year of Purchase
+April 2013",Petrol,"₹8,920/month","₹4,00,999",2013 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2013 Maruti Wagon R 1.0,1st Owner,"44,510 km","Year of Purchase
+April 2013",Petrol,"₹8,230/month","₹3,69,999",2013 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2010 Hyundai i10,1st Owner,"62,936 km","Year of Purchase
+August 2009",Petrol,"₹7,014/month","₹3,15,299",2010 Hyundai i10,MAGNA 1.2 KAPPA2 Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km","Year of Purchase
+January 2011",Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+June 2015",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2016 Maruti Celerio,1st Owner,"42,195 km", ,Petrol,"₹9,676/month","₹4,34,999",2016 Maruti Celerio,ZXI OPT Manual
+Non-Accidental,2014 Maruti Wagon R 1.0,1st Owner,"27,523 km","Year of Purchase
+July 2016",Petrol,"₹9,823/month","₹4,41,599",2014 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+February 2014",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2012 Hyundai i10,1st Owner,"82,823 km","Year of Purchase
+April 2010",Petrol,"₹7,554/month","₹3,39,599",2012 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2015 Honda Brio,2nd Owner,"42,320 km", ,Petrol,"₹9,790/month","₹4,40,099",2015 Honda Brio,1.2 S MT I VTEC Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+June 2016",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2019 Maruti Eeco,1st Owner,"11,944 km", ,Petrol,"₹11,109/month","₹4,99,399",2019 Maruti Eeco,5 STR WITH AC PLUSHTR Manual
+Non-Accidental,2014 Hyundai Eon,1st Owner,"24,427 km","Year of Purchase
+September 2014",Petrol,"₹7,585/month","₹3,40,999",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km","Year of Purchase
+April 2011",Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"76,880 km", ,Petrol,"₹8,758/month","₹3,93,699",2016 Renault Kwid,RXT Opt Manual
+Non-Accidental,2013 Hyundai i10,1st Owner,"25,060 km","Year of Purchase
+May 2013",Petrol,"₹10,395/month","₹4,67,299",2013 Hyundai i10,SPORTZ 1.2 AT KAPPA2 Automatic
+Non-Accidental,2013 Ford Ecosport,2nd Owner,"68,572 km", ,Petrol,"₹12,568/month","₹5,64,999",2013 Ford Ecosport,1.5 TITANIUM TI VCT Manual
+Non-Accidental,2014 Maruti Ritz,1st Owner,"56,793 km","Year of Purchase
+August 2013",Petrol,"₹9,538/month","₹4,28,799",2014 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"34,278 km", ,Petrol,"₹11,400/month","₹5,12,499",2017 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"34,081 km", ,Petrol,"₹6,918/month","₹3,10,999",2016 Maruti Alto 800,VXI Manual
+Non-Accidental,2011 Maruti Alto,2nd Owner,"72,785 km","Year of Purchase
+May 2011",Petrol,"₹5,147/month","₹2,31,399",2011 Maruti Alto,LXI Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+May 2015",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2011 Maruti Ritz,2nd Owner,"98,931 km","Year of Purchase
+January 2014",Petrol,"₹7,312/month","₹3,28,699",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2014 Hyundai Eon,1st Owner,"30,303 km","Year of Purchase
+September 2017",Petrol,"₹7,014/month","₹3,15,299",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2011 Hyundai Santro Xing,1st Owner,"10,252 km", ,Petrol,"₹6,544/month","₹2,94,199",2011 Hyundai Santro Xing,GL PLUS Manual
+Non-Accidental,2014 Maruti Alto 800,1st Owner,"14,455 km", ,Petrol,"₹6,678/month","₹3,00,199",2014 Maruti Alto 800,LXI Manual
+Non-Accidental,2017 Maruti Wagon R 1.0,3rd Owner,"32,869 km","Year of Purchase
+February 2011",Petrol,"₹8,324/month","₹3,74,199",2017 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"36,141 km","Year of Purchase
+January 2010",Petrol,"₹5,083/month","₹2,28,499",2010 Maruti Alto,LXI Manual
+Non-Accidental,2012 Hyundai i10,1st Owner,"82,823 km","Year of Purchase
+December 2010",Petrol,"₹7,554/month","₹3,39,599",2012 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2016 Maruti Swift,2nd Owner,"57,626 km","Year of Purchase
+April 2012",Petrol,"₹11,994/month","₹5,39,199",2016 Maruti Swift,ZXI Manual
+Non-Accidental,2010 Hyundai i10,2nd Owner,"78,003 km","Year of Purchase
+October 2010",Petrol,"₹7,276/month","₹3,27,099",2010 Hyundai i10,SPORTZ 1.2 Manual
+Non-Accidental,2010 Maruti Wagon R 1.0,1st Owner,"22,696 km","Year of Purchase
+January 2012",Petrol,"₹7,490/month","₹3,36,699",2010 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2009 Maruti Alto,1st Owner,"24,474 km","Year of Purchase
+January 2010",Petrol,"₹4,992/month","₹2,24,399",2009 Maruti Alto,LXI Manual
+Non-Accidental,2012 Hyundai i10,1st Owner,"82,823 km","Year of Purchase
+March 2012",Petrol,"₹7,554/month","₹3,39,599",2012 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2009 Maruti Alto,2nd Owner,"67,415 km","Year of Purchase
+January 2011",Petrol,"₹4,727/month","₹2,12,499",2009 Maruti Alto,LXI Manual
+Non-Accidental,2014 Hyundai Grand i10,1st Owner,"30,101 km", ,Petrol,"₹10,744/month","₹4,82,999",2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2013 Maruti Alto 800,1st Owner,"22,668 km","Year of Purchase
+June 2013",Petrol,"₹6,409/month","₹2,88,099",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km","Year of Purchase
+June 2013",Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+August 2014",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"56,095 km","Year of Purchase
+November 2010",Petrol,"₹5,096/month","₹2,29,099",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2010 Hyundai i20,1st Owner,"64,773 km","Year of Purchase
+July 2011",Petrol,"₹8,290/month","₹3,72,699",2010 Hyundai i20,ASTA 1.4 AT VTVT
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"39,998 km","Year of Purchase
+November 2016",Petrol,"₹6,464/month","₹2,90,599",2016 Maruti Alto 800,LXI Manual
+Non-Accidental,2008 Hyundai i10,2nd Owner,"70,527 km","Year of Purchase
+February 2010",Petrol,"₹5,532/month","₹2,48,699",2008 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2019 Hyundai Grand i10,1st Owner,"11,850 km","Year of Purchase
+April 2014",Petrol,"₹12,759/month","₹5,73,599",2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2012 Honda Brio,1st Owner,"47,750 km","Year of Purchase
+September 2012",Petrol,"₹7,826/month","₹3,51,799",2012 Honda Brio,1.2 S MT I VTEC Manual
+Non-Accidental,2012 Hyundai i10,1st Owner,"43,142 km","Year of Purchase
+March 2011",Petrol,"₹8,326/month","₹3,74,299",2012 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2013 Honda Brio,1st Owner,"45,076 km", ,Petrol,"₹7,568/month","₹3,40,199",2013 Honda Brio,1.2 EX MT I VTEC Manual
+Non-Accidental,2012 Hyundai i20,1st Owner,"81,133 km","Year of Purchase
+April 2013",Petrol,"₹9,932/month","₹4,46,499",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2018 Maruti Eeco,1st Owner,"35,283 km", ,Petrol,"₹9,167/month","₹4,12,099",2018 Maruti Eeco,5 STR WITH AC PLUSHTR Manual
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"45,929 km","Year of Purchase
+May 2015",Petrol,"₹10,012/month","₹4,50,099",2015 Hyundai Grand i10,SPORTS 1.2 VTVT Manual
+Non-Accidental,2015 Maruti Wagon R 1.0,1st Owner,"36,403 km","Year of Purchase
+September 2016",Petrol,"₹9,532/month","₹4,28,499",2015 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2008 Hyundai Santro Xing,2nd Owner,"70,760 km", ,Petrol,"₹4,776/month","₹2,14,699",2008 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2009 Maruti Alto,1st Owner,"38,264 km","Year of Purchase
+December 2010",Petrol,"₹4,978/month","₹2,23,799",2009 Maruti Alto,LXI Manual
+Non-Accidental,2017 Hyundai Eon,1st Owner,"22,418 km","Year of Purchase
+October 2017",Petrol,"₹7,899/month","₹3,55,099",2017 Hyundai Eon,ERA PLUS (O) Manual
+Non-Accidental,2014 Hyundai i10,2nd Owner,"49,235 km","Year of Purchase
+June 2012",Petrol,"₹8,072/month","₹3,62,899",2014 Hyundai i10,SPORTZ 1.1 IRDE2 Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"24,947 km","Year of Purchase
+August 2016",Petrol,"₹9,334/month","₹4,19,599",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2017 Maruti Celerio,1st Owner,"36,684 km", ,Petrol,"₹10,333/month","₹4,64,499",2017 Maruti Celerio,ZXI Manual
+Non-Accidental,2011 Hyundai i10,2nd Owner,"81,632 km","Year of Purchase
+February 2013",Petrol,"₹8,204/month","₹3,68,799",2011 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2009 Maruti Alto,2nd Owner,"67,415 km","Year of Purchase
+January 2009",Petrol,"₹4,727/month","₹2,12,499",2009 Maruti Alto,LXI Manual
+Non-Accidental,2016 Maruti Celerio,1st Owner,"7,113 km", ,Petrol,"₹9,997/month","₹4,49,399",2016 Maruti Celerio,VXI Manual
+Non-Accidental,2009 Hyundai i20,1st Owner,"1,09,610 km","Year of Purchase
+August 2010",Petrol,"₹7,356/month","₹3,30,699",2009 Hyundai i20,ASTA 1.2 Manual
+Non-Accidental,2009 Hyundai i20,1st Owner,"1,09,610 km","Year of Purchase
+May 2016",Petrol,"₹7,356/month","₹3,30,699",2009 Hyundai i20,ASTA 1.2 Manual
+Non-Accidental,2016 Maruti Celerio,1st Owner,"7,113 km", ,Petrol,"₹9,997/month","₹4,49,399",2016 Maruti Celerio,VXI Manual
+Non-Accidental,2014 Hyundai Grand i10,1st Owner,"80,080 km", ,Petrol,"₹10,800/month","₹4,85,499",2014 Hyundai Grand i10,ASTA 1.2 AT VTVT Automatic
+Non-Accidental,2018 Maruti Dzire,1st Owner,"27,281 km","Year of Purchase
+January 2018",Petrol,"₹15,026/month","₹6,75,499",2018 Maruti Dzire,VXI Manual
+Non-Accidental,2015 Hyundai i10,2nd Owner,"20,542 km","Year of Purchase
+July 2015",Petrol,"₹8,909/month","₹4,00,499",2015 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"36,141 km","Year of Purchase
+March 2010",Petrol,"₹5,083/month","₹2,28,499",2010 Maruti Alto,LXI Manual
+Non-Accidental,2016 Volkswagen Polo,1st Owner,"7,683 km", ,Petrol,"₹13,803/month","₹6,20,499",2016 Volkswagen Polo,COMFORTLINE 1.2L PETROL Manual
+Non-Accidental,2013 Maruti Ritz,1st Owner,"33,225 km", ,Petrol,"₹8,920/month","₹4,00,999",2013 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2015 Maruti Alto 800,2nd Owner,"46,146 km", ,Petrol,"₹6,322/month","₹2,84,199",2015 Maruti Alto 800,LXI Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"24,947 km", ,Petrol,"₹9,334/month","₹4,19,599",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2015 Honda Brio,1st Owner,"4,392 km", ,Petrol,"₹11,398/month","₹5,12,399",2015 Honda Brio,1.2 S MT I VTEC Manual
+Non-Accidental,2013 Maruti Swift Dzire,1st Owner,"42,534 km", ,Petrol,"₹10,664/month","₹4,79,399",2013 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2015 Maruti Alto K10,2nd Owner,"26,140 km","Year of Purchase
+February 2014",Petrol,"₹6,805/month","₹3,05,899",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2013 Hyundai i10,1st Owner,"15,548 km","Year of Purchase
+June 2015",Petrol,"₹9,318/month","₹4,18,899",2013 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2015 Honda Brio,1st Owner,"4,392 km","Year of Purchase
+February 2015",Petrol,"₹11,398/month","₹5,12,399",2015 Honda Brio,1.2 S MT I VTEC Manual
+Non-Accidental,2019 Hyundai Grand i10,1st Owner,"11,850 km", ,Petrol,"₹12,759/month","₹5,73,599",2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2010 Maruti Ritz,1st Owner,"1,42,988 km","Year of Purchase
+August 2010",Petrol,"₹6,983/month","₹3,13,899",2010 Maruti Ritz,VXI ABS Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+February 2013",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"76,880 km","Year of Purchase
+February 2016",Petrol,"₹8,758/month","₹3,93,699",2016 Renault Kwid,RXT Opt Manual
+Non-Accidental,2017 Maruti Alto 800,2nd Owner,"10,742 km","Year of Purchase
+July 2015",Petrol,"₹7,903/month","₹3,55,299",2017 Maruti Alto 800,LXI Manual
+Non-Accidental,2012 Maruti Wagon R 1.0,1st Owner,"53,437 km","Year of Purchase
+November 2014",Petrol,"₹9,452/month","₹4,24,899",2012 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+September 2016",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"57,741 km", ,Petrol,"₹12,993/month","₹5,84,099",2015 Hyundai Grand i10,ASTA 1.2 (O) VTVT Manual
+Non-Accidental,2010 Maruti A Star,2nd Owner,"1,03,707 km","Year of Purchase
+January 2008",Petrol,"₹4,920/month","₹2,21,199",2010 Maruti A Star,VXI Manual
+Non-Accidental,2014 Maruti Swift,2nd Owner,"43,434 km","Year of Purchase
+January 2015",Petrol,"₹11,685/month","₹5,25,299",2014 Maruti Swift,VXI Manual
+Non-Accidental,2012 Maruti Wagon R 1.0,1st Owner,"53,437 km","Year of Purchase
+January 2016",Petrol,"₹9,452/month","₹4,24,899",2012 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2017 Maruti OMNI E,1st Owner,"20,182 km","Year of Purchase
+May 2011",Petrol,"₹8,475/month","₹3,80,999",2017 Maruti OMNI E,8 STR
+Non-Accidental,2015 Maruti Swift,1st Owner,"35,490 km", ,Petrol,"₹12,137/month","₹5,45,599",2015 Maruti Swift,VXI Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+September 2016",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2018 Hyundai Creta,1st Owner,"58,543 km", ,Petrol,"₹26,707/month","₹12,00,599",2018 Hyundai Creta,1.6 SX PLUS AUTO PETROL Automatic
+Non-Accidental,2017 Renault Kwid,1st Owner,"8,409 km","Year of Purchase
+May 2017",Petrol,"₹9,271/month","₹4,16,799",2017 Renault Kwid,RXL1.0 EASY-R AT Automatic
+Non-Accidental,2014 Hyundai i10,2nd Owner,"49,235 km", ,Petrol,"₹8,072/month","₹3,62,899",2014 Hyundai i10,SPORTZ 1.1 IRDE2 Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"6,489 km","Year of Purchase
+January 2012",Petrol,"₹7,643/month","₹3,43,599",2016 Maruti Alto 800,LXI Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"38,628 km", ,Petrol,"₹11,531/month","₹5,18,399",2012 Maruti Swift,VXI Manual
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"34,278 km","Year of Purchase
+April 2014",Petrol,"₹11,400/month","₹5,12,499",2017 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT Manual
+Non-Accidental,2013 Maruti Ritz,2nd Owner,"58,907 km","Year of Purchase
+April 2011",Petrol,"₹7,812/month","₹3,51,199",2013 Maruti Ritz,LXI Manual
+Non-Accidental,2011 Hyundai i10,2nd Owner,"81,632 km", ,Petrol,"₹8,204/month","₹3,68,799",2011 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"26,306 km","Year of Purchase
+April 2014",Petrol,"₹13,965/month","₹6,27,799",2018 Maruti Swift,VXI Manual
+Non-Accidental,2016 Volkswagen Polo,1st Owner,"48,323 km", ,Petrol,"₹17,217/month","₹7,73,999",2016 Volkswagen Polo,GT TSI 1.2 PETROL AT Automatic
+Non-Accidental,2013 Honda Brio,1st Owner,"45,076 km", ,Petrol,"₹7,568/month","₹3,40,199",2013 Honda Brio,1.2 EX MT I VTEC Manual
+Non-Accidental,2019 Hyundai NEW SANTRO,1st Owner,"10,854 km","Year of Purchase
+November 2018",Petrol,"₹12,564/month","₹5,64,799",2019 Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"46,722 km", ,Petrol,"₹13,144/month","₹5,90,899",2017 Hyundai Grand i10,SPORTZ (O) 1.2 AT VTVT Manual
+Non-Accidental,2011 Maruti Alto,2nd Owner,"47,876 km","Year of Purchase
+February 2012",Petrol,"₹5,183/month","₹2,32,999",2011 Maruti Alto,LXI Manual
+Non-Accidental,2016 Maruti Swift,2nd Owner,"57,626 km", ,Petrol,"₹11,994/month","₹5,39,199",2016 Maruti Swift,ZXI Manual
+Non-Accidental,2019 Hyundai NEW SANTRO,1st Owner,"10,854 km","Year of Purchase
+February 2020",Petrol,"₹12,564/month","₹5,64,799",2019 Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic
+Non-Accidental,2009 Maruti Alto,1st Owner,"24,474 km","Year of Purchase
+April 2009",Petrol,"₹4,992/month","₹2,24,399",2009 Maruti Alto,LXI Manual
+Non-Accidental,2008 Hyundai Santro Xing,2nd Owner,"70,760 km", ,Petrol,"₹4,776/month","₹2,14,699",2008 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2018 Tata Tiago,1st Owner,"35,083 km","Year of Purchase
+May 2017",Petrol,"₹12,199/month","₹5,48,399",2018 Tata Tiago,XZ 1.2 REVOTRON Manual
+Non-Accidental,2017 Maruti Baleno,1st Owner,"64,827 km", ,Petrol,"₹13,273/month","₹5,96,699",2017 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km","Year of Purchase
+March 2013",Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"43,507 km", ,Petrol,"₹12,935/month","₹5,81,499",2015 Hyundai Elite i20,SPORTZ 1.2 Manual
+Non-Accidental,2013 Ford Ecosport,2nd Owner,"39,651 km", ,Petrol,"₹14,597/month","₹6,56,199",2013 Ford Ecosport,1.5AMBIENTE TI VCT Manual
+Non-Accidental,2017 Maruti IGNIS,1st Owner,"44,756 km","Year of Purchase
+March 2018",Petrol,"₹14,187/month","₹6,37,799",2017 Maruti IGNIS,ALPHA 1.2 K12 DUAL TONE Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km", ,Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"15,426 km","Year of Purchase
+June 2018",Petrol,"₹10,197/month","₹4,58,399",2018 Maruti Alto K10,VXI (O) AMT Automatic
+Non-Accidental,2016 Maruti Celerio,1st Owner,"29,551 km", ,Petrol,"₹10,740/month","₹4,82,799",2016 Maruti Celerio,ZXI AMT Automatic
+Non-Accidental,2015 Maruti Ritz,1st Owner,"54,899 km", ,Petrol,"₹11,169/month","₹5,02,099",2015 Maruti Ritz,ZXI ABS Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+December 2010",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km","Year of Purchase
+June 2015",Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2010 Maruti Wagon R 1.0,1st Owner,"47,444 km", ,Petrol,"₹6,567/month","₹2,95,199",2010 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2015 Hyundai Grand i10,2nd Owner,"59,134 km","Year of Purchase
+November 2016",Petrol,"₹9,472/month","₹4,25,799",2015 Hyundai Grand i10,SPORTS 1.2 VTVT Manual
+Non-Accidental,2015 Maruti Swift,1st Owner,"48,516 km", ,Petrol,"₹11,176/month","₹5,02,399",2015 Maruti Swift,VXI Manual
+Non-Accidental,2017 Tata Tiago,2nd Owner,"4,305 km", ,Petrol,"₹12,626/month","₹5,67,599",2017 Tata Tiago,XZA 1.2 REVOTRON Automatic
+Non-Accidental,2019 Maruti Celerio,1st Owner,"19,006 km", ,Petrol,"₹11,560/month","₹5,19,699",2019 Maruti Celerio,ZXI OPT Manual
+Non-Accidental,2017 Renault Kwid,1st Owner,"8,409 km","Year of Purchase
+May 2017",Petrol,"₹9,271/month","₹4,16,799",2017 Renault Kwid,RXL1.0 EASY-R AT Automatic
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"34,758 km","Year of Purchase
+July 2015",Petrol,"₹11,173/month","₹5,02,299",2015 Hyundai Grand i10,ASTA 1.2 AT VTVT Automatic
+Non-Accidental,2011 Maruti Alto K10,1st Owner,"64,152 km","Year of Purchase
+June 2011",Petrol,"₹5,365/month","₹2,41,199",2011 Maruti Alto K10,LXI Manual
+Non-Accidental,2014 Hyundai i10,2nd Owner,"49,235 km","Year of Purchase
+March 2010",Petrol,"₹8,072/month","₹3,62,899",2014 Hyundai i10,SPORTZ 1.1 IRDE2 Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km", ,Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2011 Maruti Ritz,2nd Owner,"60,921 km","Year of Purchase
+March 2011",Petrol,"₹7,981/month","₹3,58,799",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2015 Tata Nano,2nd Owner,"21,822 km", ,Petrol,"₹3,928/month","₹1,76,599",2015 Tata Nano,XT TWIST Manual
+Non-Accidental,2016 Hyundai Grand i10,1st Owner,"73,927 km","Year of Purchase
+December 2016",Petrol,"₹11,999/month","₹5,39,399",2016 Hyundai Grand i10,ASTA 1.2 AT VTVT Automatic
+Non-Accidental,2015 Ford Ecosport,1st Owner,"1,24,096 km", ,Petrol,"₹11,925/month","₹5,36,099",2015 Ford Ecosport,1.5 TITANIUM TI VCT AT Automatic
+Non-Accidental,2014 Maruti Wagon R 1.0,1st Owner,"67,946 km","Year of Purchase
+September 2014",Petrol,"₹8,391/month","₹3,77,199",2014 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"34,729 km","Year of Purchase
+April 2014",Petrol,"₹8,486/month","₹3,81,499",2018 Maruti Alto K10,VXI Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"36,141 km","Year of Purchase
+July 2009",Petrol,"₹5,083/month","₹2,28,499",2010 Maruti Alto,LXI Manual
+Non-Accidental,2013 Maruti Ritz,2nd Owner,"58,907 km","Year of Purchase
+August 2011",Petrol,"₹7,812/month","₹3,51,199",2013 Maruti Ritz,LXI Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"6,489 km", ,Petrol,"₹7,643/month","₹3,43,599",2016 Maruti Alto 800,LXI Manual
+Non-Accidental,2014 Maruti Ritz,1st Owner,"1,08,184 km","Year of Purchase
+December 2010",Petrol,"₹8,379/month","₹3,76,699",2014 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2014 Maruti Alto K10,3rd Owner,"43,290 km","Year of Purchase
+October 2011",Petrol,"₹6,898/month","₹3,10,099",2014 Maruti Alto K10,VXI Manual
+Non-Accidental,2016 Hyundai Creta,1st Owner,"1,13,273 km", ,Diesel,"₹18,189/month","₹8,17,699",2016 Hyundai Creta,1.6 SX CRDI
+Non-Accidental,2010 Hyundai i10,2nd Owner,"78,003 km","Year of Purchase
+January 2018",Petrol,"₹7,276/month","₹3,27,099",2010 Hyundai i10,SPORTZ 1.2 Manual
+Non-Accidental,2016 Hyundai Elite i20,1st Owner,"52,972 km", ,Petrol,"₹14,265/month","₹6,41,299",2016 Hyundai Elite i20,SPORTZ 1.2 Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+April 2012",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2017 Maruti Baleno,1st Owner,"64,827 km", ,Petrol,"₹13,273/month","₹5,96,699",2017 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2017 Maruti Baleno,1st Owner,"64,827 km", ,Petrol,"₹13,273/month","₹5,96,699",2017 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2018 Hyundai Elite i20,1st Owner,"6,049 km", ,Petrol,"₹17,333/month","₹7,79,199",2018 Hyundai Elite i20,ASTA 1.2 (O) Manual
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"74,353 km", ,Petrol,"₹13,436/month","₹6,03,999",2015 Hyundai Elite i20,ASTA 1.2 Manual
+Non-Accidental,2013 Ford Ecosport,2nd Owner,"39,651 km","Year of Purchase
+August 2013",Petrol,"₹14,597/month","₹6,56,199",2013 Ford Ecosport,1.5AMBIENTE TI VCT Manual
+Non-Accidental,2017 Maruti Celerio,1st Owner,"72,907 km", ,Petrol,"₹9,461/month","₹4,25,299",2017 Maruti Celerio,ZXI AMT Automatic
+Non-Accidental,2018 Hyundai NEW SANTRO,1st Owner,"17,323 km", ,Petrol,"₹11,972/month","₹5,38,199",2018 Hyundai NEW SANTRO,1.1 SPORTS AMT Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+September 2011",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2016 Hyundai Creta,1st Owner,"1,13,273 km","Year of Purchase
+September 2019",Diesel,"₹18,189/month","₹8,17,699",2016 Hyundai Creta,1.6 SX CRDI
+Non-Accidental,2018 Hyundai NEW SANTRO,1st Owner,"17,323 km", ,Petrol,"₹11,972/month","₹5,38,199",2018 Hyundai NEW SANTRO,1.1 SPORTS AMT Manual
+Non-Accidental,2015 Hyundai i10,2nd Owner,"20,542 km","Year of Purchase
+January 2013",Petrol,"₹8,909/month","₹4,00,499",2015 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2019 Hyundai Grand i10,1st Owner,"11,850 km", ,Petrol,"₹12,759/month","₹5,73,599",2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2017 Hyundai Elite i20,1st Owner,"21,559 km", ,Petrol,"₹14,216/month","₹6,39,099",2017 Hyundai Elite i20,SPORTZ 1.2 Manual
+Non-Accidental,2020 Ford Ecosport,1st Owner,"39,594 km", ,Diesel,"₹19,829/month","₹8,91,399",2020 Ford Ecosport,1.5TITANIUM TDCI Manual
+Non-Accidental,2016 Maruti Baleno,1st Owner,"33,482 km", ,Petrol,"₹14,192/month","₹6,37,999",2016 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2017 Maruti Alto 800,2nd Owner,"10,742 km","Year of Purchase
+June 2009",Petrol,"₹7,903/month","₹3,55,299",2017 Maruti Alto 800,LXI Manual
+Non-Accidental,2017 Volkswagen Polo,1st Owner,"51,075 km", ,Petrol,"₹13,118/month","₹5,89,699",2017 Volkswagen Polo,HIGHLINE PLUS 1.2L PETROL Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km", ,Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2013 Hyundai Santro Xing,3rd Owner,"71,938 km","Year of Purchase
+December 2008",Petrol,"₹5,370/month","₹2,41,399",2013 Hyundai Santro Xing,GL PLUS Manual
+Non-Accidental,2017 Maruti Dzire,1st Owner,"20,049 km", ,Petrol,"₹14,405/month","₹6,47,599",2017 Maruti Dzire,VXI Manual
+Non-Accidental,2013 Maruti Ritz,1st Owner,"33,225 km", ,Petrol,"₹8,920/month","₹4,00,999",2013 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2017 Renault Kwid,1st Owner,"8,409 km","Year of Purchase
+October 2018",Petrol,"₹9,271/month","₹4,16,799",2017 Renault Kwid,RXL1.0 EASY-R AT Automatic
+Non-Accidental,2015 Maruti Alto K10,1st Owner,"44,397 km","Year of Purchase
+March 2014",Petrol,"₹7,143/month","₹3,21,099",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2014 Hyundai i10,2nd Owner,"49,235 km","Year of Purchase
+August 2009",Petrol,"₹8,072/month","₹3,62,899",2014 Hyundai i10,SPORTZ 1.1 IRDE2 Manual
+Non-Accidental,2013 Hyundai Santro Xing,3rd Owner,"71,938 km","Year of Purchase
+September 2007",Petrol,"₹5,370/month","₹2,41,399",2013 Hyundai Santro Xing,GL PLUS Manual
+Non-Accidental,2010 Hyundai Santro Xing,1st Owner,"97,395 km","Year of Purchase
+August 2008",Petrol,"₹5,463/month","₹2,45,599",2010 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2014 Maruti Alto K10,3rd Owner,"43,290 km", ,Petrol,"₹6,898/month","₹3,10,099",2014 Maruti Alto K10,VXI Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"49,418 km", ,Petrol,"₹11,031/month","₹4,95,899",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+October 2011",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"63,982 km", ,Petrol,"₹11,269/month","₹5,06,599",2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2015 Maruti Alto K10,1st Owner,"24,669 km","Year of Purchase
+October 2010",Petrol,"₹7,926/month","₹3,56,299",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2015 Tata Nano,2nd Owner,"21,822 km","Year of Purchase
+January 2008",Petrol,"₹3,928/month","₹1,76,599",2015 Tata Nano,XT TWIST Manual
+Non-Accidental,2012 Hyundai i20,1st Owner,"81,133 km", ,Petrol,"₹9,932/month","₹4,46,499",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km", ,Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+July 2010",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2018 Hyundai Elite i20,1st Owner,"63,374 km","Year of Purchase
+January 2018",Diesel,"₹16,523/month","₹7,42,799",2018 Hyundai Elite i20,ASTA 1.4 CRDI DUAL TONE Manual
+Non-Accidental,2013 Ford Figo,1st Owner,"31,710 km", ,Petrol,"₹9,045/month","₹4,06,599",2013 Ford Figo,1.2 TITANIUM DURATEC Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"38,628 km", ,Petrol,"₹11,531/month","₹5,18,399",2012 Maruti Swift,VXI Manual
+Non-Accidental,2015 Maruti Swift,1st Owner,"37,184 km", ,Petrol,"₹9,934/month","₹4,46,599",2015 Maruti Swift,VXI Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"15,874 km","Year of Purchase
+November 2016",Petrol,"₹9,418/month","₹4,23,399",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2016 Maruti Baleno,1st Owner,"50,005 km","Year of Purchase
+April 2018",Petrol,"₹14,492/month","₹6,51,499",2016 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2014 Maruti Swift,1st Owner,"24,892 km","Year of Purchase
+September 2018",Petrol,"₹12,397/month","₹5,57,299",2014 Maruti Swift,VXI Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"42,772 km","Year of Purchase
+January 2014",Petrol,"₹11,405/month","₹5,12,699",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+January 2014",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2014 Hyundai Xcent,1st Owner,"41,516 km", ,Petrol,"₹9,834/month","₹4,42,099",2014 Hyundai Xcent,S 1.2 Manual
+Non-Accidental,2017 Volkswagen Polo,1st Owner,"35,525 km", ,Petrol,"₹15,467/month","₹6,95,299",2017 Volkswagen Polo,HIGHLINE1.2L PETROL Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"41,623 km","Year of Purchase
+February 2014",Petrol,"₹11,607/month","₹5,21,799",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2013 Maruti Ritz,2nd Owner,"58,907 km","Year of Purchase
+June 2011",Petrol,"₹7,812/month","₹3,51,199",2013 Maruti Ritz,LXI Manual
+Non-Accidental,2019 Hyundai Elite i20,3rd Owner,"14,912 km","Year of Purchase
+June 2015",Petrol,"₹15,242/month","₹6,85,199",2019 Hyundai Elite i20,1.2 MAGNA PLUS VTVT Manual
+Non-Accidental,2014 Maruti Swift,2nd Owner,"43,434 km","Year of Purchase
+February 2014",Petrol,"₹11,685/month","₹5,25,299",2014 Maruti Swift,VXI Manual
+Non-Accidental,2013 Maruti Swift,1st Owner,"52,206 km","Year of Purchase
+February 2018",Diesel,"₹11,491/month","₹5,16,599",2013 Maruti Swift,VDI Manual
+Non-Accidental,2013 Hyundai i20,1st Owner,"25,453 km","Year of Purchase
+February 2014",Petrol,"₹10,457/month","₹4,70,099",2013 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+March 2015",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2014 Hyundai Xcent,1st Owner,"41,516 km","Year of Purchase
+August 2014",Petrol,"₹9,834/month","₹4,42,099",2014 Hyundai Xcent,S 1.2 Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km","Year of Purchase
+November 2013",Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2014 Maruti Ertiga,1st Owner,"77,103 km","Year of Purchase
+March 2016",Diesel,"₹15,602/month","₹7,01,399",2014 Maruti Ertiga,VDI ABS Manual
+Non-Accidental,2019 Maruti Eeco,3rd Owner,"23,648 km", ,Petrol,"₹10,026/month","₹4,50,699",2019 Maruti Eeco,5 STR WITH AC PLUSHTR Manual
+Non-Accidental,2014 Maruti Alto 800,1st Owner,"55,082 km", ,Petrol,"₹6,789/month","₹3,05,199",2014 Maruti Alto 800,LXI Manual
+Non-Accidental,2013 Hyundai i10,1st Owner,"14,965 km","Year of Purchase
+August 2013",Petrol,"₹10,119/month","₹4,54,899",2013 Hyundai i10,SPORTZ 1.2 AT KAPPA2 Automatic
+Non-Accidental,2014 Hyundai Grand i10,1st Owner,"25,381 km","Year of Purchase
+July 2017",Petrol,"₹11,649/month","₹5,23,699",2014 Hyundai Grand i10,ASTA 1.2 (O) VTVT Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km", ,Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km", ,Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2017 Maruti Baleno,1st Owner,"64,827 km", ,Petrol,"₹13,273/month","₹5,96,699",2017 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2016 Maruti Wagon R 1.0,1st Owner,"27,858 km", ,Petrol,"₹9,661/month","₹4,34,299",2016 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2014 Hyundai Xcent,1st Owner,"41,516 km","Year of Purchase
+January 2013",Petrol,"₹9,834/month","₹4,42,099",2014 Hyundai Xcent,S 1.2 Manual
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km","Year of Purchase
+January 2009",Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2011 Hyundai i10,2nd Owner,"81,632 km", ,Petrol,"₹8,204/month","₹3,68,799",2011 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2014 Honda City,1st Owner,"1,71,211 km","Year of Purchase
+September 2009",Petrol,"₹8,784/month","₹3,94,899",2014 Honda City,S MT PETROL Manual
+Non-Accidental,2014 Maruti Swift Dzire,2nd Owner,"79,378 km","Year of Purchase
+February 2013",Diesel,"₹12,079/month","₹5,42,999",2014 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2020 Hyundai GRAND I10 NIOS,1st Owner,"5,456 km", ,Petrol,"₹16,650/month","₹7,48,499",2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 AT Automatic
+Non-Accidental,2011 Maruti Ritz,2nd Owner,"98,931 km","Year of Purchase
+September 2011",Petrol,"₹7,312/month","₹3,28,699",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2009 Maruti Alto,2nd Owner,"67,415 km","Year of Purchase
+February 2010",Petrol,"₹4,727/month","₹2,12,499",2009 Maruti Alto,LXI Manual
+Non-Accidental,2010 Maruti Swift,1st Owner,"1,65,606 km","Year of Purchase
+February 2011",Diesel,"₹8,388/month","₹3,77,099",2010 Maruti Swift,VDI ABS Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"9,236 km", ,Petrol,"₹14,056/month","₹6,31,899",2018 Maruti Swift,VXI Manual
+Non-Accidental,2015 Tata Nano,1st Owner,"39,157 km","Year of Purchase
+May 2010",Petrol,"₹5,021/month","₹2,25,699",2015 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"74,353 km","Year of Purchase
+April 2017",Petrol,"₹13,436/month","₹6,03,999",2015 Hyundai Elite i20,ASTA 1.2 Manual
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"76,861 km", ,Diesel,"₹13,571/month","₹6,10,099",2015 Hyundai Grand i10,ASTA 1.1 (O) CRDI Manual
+Non-Accidental,2013 Maruti Swift Dzire,1st Owner,"42,534 km","Year of Purchase
+February 2014",Petrol,"₹10,664/month","₹4,79,399",2013 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"19,215 km", ,Petrol,"₹14,021/month","₹6,30,299",2018 Maruti IGNIS,ALPHA 1.2 K12 Manual
+Non-Accidental,2011 Hyundai i20,1st Owner,"76,229 km","Year of Purchase
+January 2010",Petrol,"₹8,535/month","₹3,83,699",2011 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2016 Maruti Baleno,1st Owner,"50,005 km","Year of Purchase
+March 2017",Petrol,"₹14,492/month","₹6,51,499",2016 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"51,166 km","Year of Purchase
+September 2016",Petrol,"₹10,415/month","₹4,68,199",2012 Maruti Swift,VXI Manual
+Non-Accidental,2015 Maruti Wagon R 1.0,1st Owner,"77,905 km","Year of Purchase
+January 2011",Petrol,"₹8,386/month","₹3,76,999",2015 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2019 Maruti Celerio,1st Owner,"19,006 km", ,Petrol,"₹11,560/month","₹5,19,699",2019 Maruti Celerio,ZXI OPT Manual
+Non-Accidental,2010 Hyundai i10,1st Owner,"49,583 km","Year of Purchase
+March 2010",Petrol,"₹7,218/month","₹3,24,499",2010 Hyundai i10,SPORTZ 1.2 Manual
+Non-Accidental,2018 Hyundai Grand i10,2nd Owner,"16,018 km", ,Petrol,"₹12,799/month","₹5,75,399",2018 Hyundai Grand i10,Magna 1.2 AT VTVT Automatic
+Non-Accidental,2009 Maruti Alto,1st Owner,"38,264 km","Year of Purchase
+September 2010",Petrol,"₹4,978/month","₹2,23,799",2009 Maruti Alto,LXI Manual
+Non-Accidental,2021 Skoda Rapid,1st Owner,"11,325 km", ,Petrol,"₹21,344/month","₹9,59,499",2021 Skoda Rapid,ACTIVE 1.0 TSI
+Non-Accidental,2011 Maruti Ritz,2nd Owner,"60,921 km","Year of Purchase
+September 2011",Petrol,"₹7,981/month","₹3,58,799",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"34,081 km","Year of Purchase
+September 2009",Petrol,"₹6,918/month","₹3,10,999",2016 Maruti Alto 800,VXI Manual
+Non-Accidental,2015 Hyundai Grand i10,1st Owner,"63,982 km", ,Petrol,"₹11,269/month","₹5,06,599",2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2008 Maruti Alto,2nd Owner,"45,812 km", ,Petrol,"₹4,327/month","₹1,94,499",2008 Maruti Alto,LXI Manual
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"63,161 km","Year of Purchase
+February 2019",Diesel,"₹15,762/month","₹7,08,599",2015 Hyundai Elite i20,ASTA 1.4 CRDI Manual
+Non-Accidental,2010 Hyundai i10,1st Owner,"84,426 km", ,Petrol,"₹6,591/month","₹2,96,299",2010 Hyundai i10,MAGNA 1.2 KAPPA2 Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+August 2014",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"29,928 km","Year of Purchase
+November 2010",Petrol,"₹8,141/month","₹3,65,999",2018 Maruti Alto K10,VXI OPT Manual
+Non-Accidental,2018 Hyundai Creta,1st Owner,"58,543 km", ,Petrol,"₹26,707/month","₹12,00,599",2018 Hyundai Creta,1.6 SX PLUS AUTO PETROL Automatic
+Non-Accidental,2019 Maruti Dzire,1st Owner,"11,651 km","Year of Purchase
+April 2018",Petrol,"₹17,375/month","₹7,81,099",2019 Maruti Dzire,ZXI AMT Automatic
+Non-Accidental,2016 Maruti Swift,2nd Owner,"57,626 km","Year of Purchase
+June 2012",Petrol,"₹11,994/month","₹5,39,199",2016 Maruti Swift,ZXI Manual
+Non-Accidental,2011 Maruti Ritz,1st Owner,"1,67,159 km","Year of Purchase
+November 2018",Diesel,"₹8,864/month","₹3,98,499",2011 Maruti Ritz,VDI Manual
+Non-Accidental,2016 Hyundai Creta,1st Owner,"1,13,273 km", ,Diesel,"₹18,189/month","₹8,17,699",2016 Hyundai Creta,1.6 SX CRDI
+Non-Accidental,2016 Maruti Wagon R 1.0,1st Owner,"27,858 km", ,Petrol,"₹9,661/month","₹4,34,299",2016 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2008 Hyundai i10,2nd Owner,"70,527 km","Year of Purchase
+January 2009",Petrol,"₹5,532/month","₹2,48,699",2008 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2010 Maruti Alto,3rd Owner,"41,388 km","Year of Purchase
+January 2011",Petrol,"₹4,847/month","₹2,17,899",2010 Maruti Alto,LXI Manual
+Non-Accidental,2010 Maruti Alto,1st Owner,"36,141 km","Year of Purchase
+September 2009",Petrol,"₹5,083/month","₹2,28,499",2010 Maruti Alto,LXI Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"9,706 km", ,Petrol,"₹13,647/month","₹6,13,499",2018 Maruti IGNIS,DELTA 1.2 K12 AMT Automatic
+Non-Accidental,2017 Maruti Swift,1st Owner,"21,485 km","Year of Purchase
+March 2013",Petrol,"₹13,729/month","₹6,17,199",2017 Maruti Swift,VXI Manual
+Non-Accidental,2016 Volkswagen Polo,1st Owner,"48,323 km","Year of Purchase
+May 2019",Petrol,"₹17,217/month","₹7,73,999",2016 Volkswagen Polo,GT TSI 1.2 PETROL AT Automatic
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km","Year of Purchase
+June 2010",Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2014 Honda City,1st Owner,"85,799 km","Year of Purchase
+May 2014",Diesel,"₹14,119/month","₹6,34,699",2014 Honda City,SV MT DIESEL Manual
+Non-Accidental,2011 Maruti Ritz,2nd Owner,"60,921 km", ,Petrol,"₹7,981/month","₹3,58,799",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2016 Hyundai Eon,2nd Owner,"12,373 km","Year of Purchase
+June 2015",Petrol,"₹6,907/month","₹3,10,499",2016 Hyundai Eon,ERA PLUS Manual
+Non-Accidental,2011 Maruti Ritz,1st Owner,"32,981 km","Year of Purchase
+January 2014",Petrol,"₹9,785/month","₹4,39,899",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2015 Maruti Swift,1st Owner,"35,490 km", ,Petrol,"₹12,137/month","₹5,45,599",2015 Maruti Swift,VXI Manual
+Non-Accidental,2016 Maruti Celerio,1st Owner,"29,551 km","Year of Purchase
+November 2019",Petrol,"₹10,740/month","₹4,82,799",2016 Maruti Celerio,ZXI AMT Automatic
+Non-Accidental,2020 Hyundai GRAND I10 NIOS,1st Owner,"5,456 km", ,Petrol,"₹16,650/month","₹7,48,499",2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 AT Automatic
+Non-Accidental,2018 Maruti Eeco,1st Owner,"35,283 km","Year of Purchase
+August 2019",Petrol,"₹9,167/month","₹4,12,099",2018 Maruti Eeco,5 STR WITH AC PLUSHTR Manual
+Non-Accidental,2020 Ford Ecosport,1st Owner,"39,594 km", ,Diesel,"₹19,829/month","₹8,91,399",2020 Ford Ecosport,1.5TITANIUM TDCI Manual
+Non-Accidental,2019 MG HECTOR,1st Owner,"12,138 km", ,Diesel,"₹42,329/month","₹19,02,899",2019 MG HECTOR,SHARP 2.0 DIESEL Manual
+Non-Accidental,2018 Maruti Dzire,1st Owner,"27,281 km", ,Petrol,"₹15,026/month","₹6,75,499",2018 Maruti Dzire,VXI Manual
+Non-Accidental,2011 Maruti Alto,2nd Owner,"46,746 km","Year of Purchase
+August 2009",Petrol,"₹4,956/month","₹2,22,799",2011 Maruti Alto,LXI Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"49,418 km", ,Petrol,"₹11,031/month","₹4,95,899",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"19,215 km", ,Petrol,"₹14,021/month","₹6,30,299",2018 Maruti IGNIS,ALPHA 1.2 K12 Manual
+Non-Accidental,2014 Maruti Swift,1st Owner,"24,892 km", ,Petrol,"₹12,397/month","₹5,57,299",2014 Maruti Swift,VXI Manual
+Non-Accidental,2011 Hyundai i10,2nd Owner,"49,870 km","Year of Purchase
+July 2011",Petrol,"₹7,512/month","₹3,37,699",2011 Hyundai i10,MAGNA 1.2 KAPPA2 Manual
+Non-Accidental,2014 Hyundai Grand i10,1st Owner,"25,381 km", ,Petrol,"₹11,649/month","₹5,23,699",2014 Hyundai Grand i10,ASTA 1.2 (O) VTVT Manual
+Non-Accidental,2009 Hyundai i20,1st Owner,"1,09,610 km","Year of Purchase
+January 2011",Petrol,"₹7,356/month","₹3,30,699",2009 Hyundai i20,ASTA 1.2 Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"15,874 km","Year of Purchase
+January 2017",Petrol,"₹9,418/month","₹4,23,399",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2013 Honda City,1st Owner,"57,397 km","Year of Purchase
+February 2010",Petrol,"₹10,938/month","₹4,91,699",2013 Honda City,V MT PETROL Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+May 2018",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+July 2010",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2014 Hyundai i10,2nd Owner,"49,235 km","Year of Purchase
+January 2011",Petrol,"₹8,072/month","₹3,62,899",2014 Hyundai i10,SPORTZ 1.1 IRDE2 Manual
+Non-Accidental,2014 Maruti Ertiga,1st Owner,"77,103 km","Year of Purchase
+July 2017",Diesel,"₹15,602/month","₹7,01,399",2014 Maruti Ertiga,VDI ABS Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"38,628 km","Year of Purchase
+June 2014",Petrol,"₹11,531/month","₹5,18,399",2012 Maruti Swift,VXI Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+August 2014",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2010 Hyundai Santro Xing,1st Owner,"97,395 km","Year of Purchase
+February 2013",Petrol,"₹5,463/month","₹2,45,599",2010 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2019 Volkswagen Polo,1st Owner,"18,757 km", ,Petrol,"₹14,270/month","₹6,41,499",2019 Volkswagen Polo,Trendline 1.0 L Petrol Manual
+Non-Accidental,2019 Hyundai VENUE,1st Owner,"3,381 km","Year of Purchase
+November 2019",Petrol,"₹27,160/month","₹12,20,999",2019 Hyundai VENUE,1.0 TURBO GDI SX+ AT Automatic
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"63,161 km", ,Diesel,"₹15,762/month","₹7,08,599",2015 Hyundai Elite i20,ASTA 1.4 CRDI Manual
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km","Year of Purchase
+June 2009",Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2014 Maruti Alto K10,1st Owner,"66,079 km", ,Petrol,"₹7,087/month","₹3,18,599",2014 Maruti Alto K10,VXI Manual
+Non-Accidental,2018 Honda WR-V,1st Owner,"54,689 km","Year of Purchase
+August 2017",Petrol,"₹18,403/month","₹8,27,299",2018 Honda WR-V,1.2 i-VTEC VX MT Manual
+Non-Accidental,2018 Maruti Swift,1st Owner,"26,306 km","Year of Purchase
+May 2013",Petrol,"₹13,965/month","₹6,27,799",2018 Maruti Swift,VXI Manual
+Non-Accidental,2014 Hyundai i20,2nd Owner,"89,057 km", ,Petrol,"₹12,234/month","₹5,49,999",2014 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2011 Hyundai Santro Xing,1st Owner,"10,252 km","Year of Purchase
+August 2008",Petrol,"₹6,544/month","₹2,94,199",2011 Hyundai Santro Xing,GL PLUS Manual
+Non-Accidental,2012 Maruti Swift,2nd Owner,"42,779 km","Year of Purchase
+March 2014",Petrol,"₹10,430/month","₹4,68,899",2012 Maruti Swift,ZXI Manual
+Non-Accidental,2015 Tata Nano,2nd Owner,"21,822 km","Year of Purchase
+October 2009",Petrol,"₹3,928/month","₹1,76,599",2015 Tata Nano,XT TWIST Manual
+Non-Accidental,2012 Hyundai i20,2nd Owner,"44,047 km","Year of Purchase
+October 2013",Petrol,"₹10,359/month","₹4,65,699",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2015 Hyundai Creta,1st Owner,"44,396 km", ,Petrol,"₹18,405/month","₹8,27,399",2015 Hyundai Creta,1.6 S Manual
+Non-Accidental,2015 Maruti Alto K10,2nd Owner,"26,140 km","Year of Purchase
+May 2011",Petrol,"₹6,805/month","₹3,05,899",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2020 Hyundai GRAND I10 NIOS,1st Owner,"5,456 km", ,Petrol,"₹16,650/month","₹7,48,499",2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 AT Automatic
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"49,418 km","Year of Purchase
+March 2013",Petrol,"₹11,031/month","₹4,95,899",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"15,874 km", ,Petrol,"₹9,418/month","₹4,23,399",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2011 Maruti Swift,2nd Owner,"60,118 km","Year of Purchase
+May 2008",Diesel,"₹8,695/month","₹3,90,899",2011 Maruti Swift,VDI Manual
+Non-Accidental,2012 Maruti Swift Dzire,1st Owner,"1,16,929 km","Year of Purchase
+February 2012",Diesel,"₹10,168/month","₹4,57,099",2012 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2010 Hyundai i20,1st Owner,"90,062 km","Year of Purchase
+June 2010",Petrol,"₹7,886/month","₹3,54,499",2010 Hyundai i20,SPORTZ 1.2 O Manual
+Non-Accidental,2008 Hyundai i10,2nd Owner,"70,527 km","Year of Purchase
+January 2009",Petrol,"₹5,532/month","₹2,48,699",2008 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"34,729 km","Year of Purchase
+November 2011",Petrol,"₹8,486/month","₹3,81,499",2018 Maruti Alto K10,VXI Manual
+Non-Accidental,2008 Hyundai i10,2nd Owner,"70,527 km","Year of Purchase
+March 2008",Petrol,"₹5,532/month","₹2,48,699",2008 Hyundai i10,MAGNA 1.1 IRDE2 Manual
+Non-Accidental,2019 Hyundai Elite i20,1st Owner,"13,805 km", ,Petrol,"₹15,780/month","₹7,09,399",2019 Hyundai Elite i20,1.2 MAGNA PLUS VTVT Manual
+Non-Accidental,2020 Renault Duster,1st Owner,"6,996 km", ,Petrol,"₹25,343/month","₹11,39,299",2020 Renault Duster,RXZ Manual
+Non-Accidental,2019 Maruti Baleno,1st Owner,"7,010 km","Year of Purchase
+January 2020",Petrol,"₹16,187/month","₹7,27,699",2019 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2015 Hyundai New Elantra,1st Owner,"1,67,939 km","Year of Purchase
+July 2014",Diesel,"₹16,129/month","₹7,25,099",2015 Hyundai New Elantra,1.6 SX AT
+Non-Accidental,2017 Tata Tiago,1st Owner,"10,252 km", ,Petrol,"₹12,717/month","₹5,71,699",2017 Tata Tiago,XZA 1.2 REVOTRON Automatic
+Non-Accidental,2010 Hyundai i20,1st Owner,"64,773 km","Year of Purchase
+September 2010",Petrol,"₹8,290/month","₹3,72,699",2010 Hyundai i20,ASTA 1.4 AT VTVT
+Non-Accidental,2009 Maruti Alto,2nd Owner,"67,415 km","Year of Purchase
+May 2009",Petrol,"₹4,727/month","₹2,12,499",2009 Maruti Alto,LXI Manual
+Non-Accidental,2011 Maruti Ritz,1st Owner,"32,981 km", ,Petrol,"₹9,785/month","₹4,39,899",2011 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2021 Skoda Rapid,1st Owner,"11,325 km","Year of Purchase
+January 2017",Petrol,"₹21,344/month","₹9,59,499",2021 Skoda Rapid,ACTIVE 1.0 TSI
+Non-Accidental,2015 Maruti Swift,1st Owner,"35,490 km","Year of Purchase
+February 2015",Petrol,"₹12,137/month","₹5,45,599",2015 Maruti Swift,VXI Manual
+Non-Accidental,2021 Skoda Rapid,1st Owner,"11,325 km","Year of Purchase
+June 2019",Petrol,"₹21,344/month","₹9,59,499",2021 Skoda Rapid,ACTIVE 1.0 TSI
+Non-Accidental,2019 Maruti Dzire,1st Owner,"11,651 km", ,Petrol,"₹17,375/month","₹7,81,099",2019 Maruti Dzire,ZXI AMT Automatic
+Non-Accidental,2017 Maruti Dzire,1st Owner,"20,049 km","Year of Purchase
+February 2018",Petrol,"₹14,405/month","₹6,47,599",2017 Maruti Dzire,VXI Manual
+Non-Accidental,2019 Hyundai Elite i20,3rd Owner,"14,912 km", ,Petrol,"₹15,242/month","₹6,85,199",2019 Hyundai Elite i20,1.2 MAGNA PLUS VTVT Manual
+Non-Accidental,2013 Ford Ecosport,2nd Owner,"39,651 km","Year of Purchase
+January 2015",Petrol,"₹14,597/month","₹6,56,199",2013 Ford Ecosport,1.5AMBIENTE TI VCT Manual
+Non-Accidental,2010 Maruti Ritz,2nd Owner,"66,102 km","Year of Purchase
+June 2009",Petrol,"₹6,920/month","₹3,11,099",2010 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2013 Hyundai Santro Xing,3rd Owner,"71,938 km","Year of Purchase
+August 2008",Petrol,"₹5,370/month","₹2,41,399",2013 Hyundai Santro Xing,GL PLUS Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+January 2012",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2014 Maruti Wagon R 1.0,1st Owner,"67,946 km","Year of Purchase
+February 2014",Petrol,"₹8,391/month","₹3,77,199",2014 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2015 Maruti Swift,1st Owner,"73,530 km", ,Diesel,"₹10,455/month","₹4,69,999",2015 Maruti Swift,VDI ABS Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"9,706 km", ,Petrol,"₹13,647/month","₹6,13,499",2018 Maruti IGNIS,DELTA 1.2 K12 AMT Automatic
+Non-Accidental,2011 Maruti Alto,2nd Owner,"77,395 km","Year of Purchase
+July 2010",Petrol,"₹4,847/month","₹2,17,899",2011 Maruti Alto,LXI Manual
+Non-Accidental,2019 Maruti Baleno,1st Owner,"7,010 km", ,Petrol,"₹16,187/month","₹7,27,699",2019 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+May 2013",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Maruti Baleno,1st Owner,"50,005 km", ,Petrol,"₹14,492/month","₹6,51,499",2016 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2012 Hyundai i20,1st Owner,"81,133 km","Year of Purchase
+January 2014",Petrol,"₹9,932/month","₹4,46,499",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2016 Maruti Baleno,1st Owner,"50,005 km", ,Petrol,"₹14,492/month","₹6,51,499",2016 Maruti Baleno,DELTA 1.2 K12 Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km", ,Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+September 2013",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2013 Maruti Swift,1st Owner,"52,206 km","Year of Purchase
+May 2018",Diesel,"₹11,491/month","₹5,16,599",2013 Maruti Swift,VDI Manual
+Non-Accidental,2012 Hyundai i20,2nd Owner,"44,047 km","Year of Purchase
+November 2012",Petrol,"₹10,359/month","₹4,65,699",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2010 Maruti Ritz,1st Owner,"61,156 km", ,Petrol,"₹7,085/month","₹3,18,499",2010 Maruti Ritz,LXI Manual
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"74,353 km","Year of Purchase
+January 2015",Petrol,"₹13,436/month","₹6,03,999",2015 Hyundai Elite i20,ASTA 1.2 Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"38,628 km","Year of Purchase
+January 2014",Petrol,"₹11,531/month","₹5,18,399",2012 Maruti Swift,VXI Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"42,772 km", ,Petrol,"₹11,405/month","₹5,12,699",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2020 Maruti S PRESSO,1st Owner,"5,699 km","Year of Purchase
+September 2015",Petrol,"₹10,837/month","₹4,87,199",2020 Maruti S PRESSO,VXI AGS Automatic
+Non-Accidental,2018 Hyundai Creta,1st Owner,"58,543 km","Year of Purchase
+June 2015",Petrol,"₹26,707/month","₹12,00,599",2018 Hyundai Creta,1.6 SX PLUS AUTO PETROL Automatic
+Non-Accidental,2011 Maruti Swift,2nd Owner,"60,118 km","Year of Purchase
+January 2010",Diesel,"₹8,695/month","₹3,90,899",2011 Maruti Swift,VDI Manual
+Non-Accidental,2017 Maruti Alto 800,3rd Owner,"37,801 km","Year of Purchase
+May 2011",Petrol,"₹7,423/month","₹3,33,699",2017 Maruti Alto 800,VXI Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+September 2017",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2017 Maruti IGNIS,1st Owner,"53,658 km","Year of Purchase
+April 2018",Petrol,"₹11,807/month","₹5,30,799",2017 Maruti IGNIS,DELTA 1.2 K12 AMT Automatic
+Non-Accidental,2011 Hyundai i20,1st Owner,"76,229 km","Year of Purchase
+August 2009",Petrol,"₹8,535/month","₹3,83,699",2011 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2017 Maruti Vitara Brezza,1st Owner,"53,007 km","Year of Purchase
+February 2019",Diesel,"₹21,982/month","₹9,88,199",2017 Maruti Vitara Brezza,ZDI PLUS DUAL TONE Manual
+Non-Accidental,2008 Hyundai Santro Xing,1st Owner,"73,378 km","Year of Purchase
+March 2010",Petrol,"₹5,603/month","₹2,51,899",2008 Hyundai Santro Xing,GLS Manual
+Non-Accidental,2017 Volkswagen Polo,2nd Owner,"33,492 km","Year of Purchase
+June 2016",Petrol,"₹17,602/month","₹7,91,299",2017 Volkswagen Polo,GT TSI 1.2 PETROL AT Automatic
+Non-Accidental,2010 Maruti Ritz,2nd Owner,"66,102 km","Year of Purchase
+August 2011",Petrol,"₹6,920/month","₹3,11,099",2010 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2012 Maruti Ritz,1st Owner,"79,533 km","Year of Purchase
+January 2012",Petrol,"₹8,050/month","₹3,61,899",2012 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2013 Maruti Swift Dzire,1st Owner,"63,858 km","Year of Purchase
+January 2012",Petrol,"₹9,923/month","₹4,46,099",2013 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2009 Hyundai i10,3rd Owner,"65,199 km","Year of Purchase
+January 2008",Petrol,"₹5,766/month","₹2,59,199",2009 Hyundai i10,SPORTZ 1.2 Manual
+Non-Accidental,2014 Maruti Ritz,1st Owner,"1,08,184 km","Year of Purchase
+April 2010",Petrol,"₹8,379/month","₹3,76,699",2014 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2010 Maruti Swift,1st Owner,"1,65,606 km","Year of Purchase
+March 2008",Diesel,"₹8,388/month","₹3,77,099",2010 Maruti Swift,VDI ABS Manual
+Non-Accidental,2012 Maruti Swift Dzire,1st Owner,"97,067 km","Year of Purchase
+July 2014",Diesel,"₹10,166/month","₹4,56,999",2012 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2009 Hyundai i10,1st Owner,"34,607 km","Year of Purchase
+March 2011",Petrol,"₹6,980/month","₹3,13,799",2009 Hyundai i10,SPORTZ 1.2 AT Automatic
+Non-Accidental,2015 Hyundai Elite i20,1st Owner,"74,353 km","Year of Purchase
+May 2016",Petrol,"₹13,436/month","₹6,03,999",2015 Hyundai Elite i20,ASTA 1.2 Manual
+Non-Accidental,2019 Ford Ecosport,1st Owner,"8,881 km", ,Petrol,"₹23,370/month","₹10,50,599",2019 Ford Ecosport,1.5 TITANIUM PLUS TI VCT AT
+Non-Accidental,2012 Maruti Swift Dzire,1st Owner,"1,30,343 km","Year of Purchase
+June 2014",Diesel,"₹10,468/month","₹4,70,599",2012 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2014 Hyundai Eon,1st Owner,"30,303 km","Year of Purchase
+January 2012",Petrol,"₹7,014/month","₹3,15,299",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"35,445 km", ,Petrol,"₹7,699/month","₹3,46,099",2016 Renault Kwid,RXT Manual
+Non-Accidental,2016 Renault Kwid,1st Owner,"35,445 km","Year of Purchase
+January 2016",Petrol,"₹7,699/month","₹3,46,099",2016 Renault Kwid,RXT Manual
+Non-Accidental,2017 Honda WR-V,1st Owner,"31,432 km", ,Petrol,"₹16,407/month","₹7,37,599",2017 Honda WR-V,1.2 i-VTEC VX MT Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"49,418 km","Year of Purchase
+January 2012",Petrol,"₹11,031/month","₹4,95,899",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"42,772 km","Year of Purchase
+February 2012",Petrol,"₹11,405/month","₹5,12,699",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2019 Volkswagen Polo,1st Owner,"18,757 km","Year of Purchase
+June 2015",Petrol,"₹14,270/month","₹6,41,499",2019 Volkswagen Polo,Trendline 1.0 L Petrol Manual
+Non-Accidental,2018 Hyundai Creta,1st Owner,"89,645 km", ,Diesel,"₹19,037/month","₹8,55,799",2018 Hyundai Creta,1.4 E PLUS CRDI
+Non-Accidental,2015 Hyundai New Elantra,1st Owner,"1,67,939 km","Year of Purchase
+May 2016",Diesel,"₹16,129/month","₹7,25,099",2015 Hyundai New Elantra,1.6 SX AT
+Non-Accidental,2015 Hyundai New Elantra,1st Owner,"1,67,939 km","Year of Purchase
+January 2009",Diesel,"₹16,129/month","₹7,25,099",2015 Hyundai New Elantra,1.6 SX AT
+Non-Accidental,2011 Honda City,1st Owner,"56,073 km","Year of Purchase
+July 2010",Petrol,"₹7,941/month","₹3,56,999",2011 Honda City,S MT PETROL Manual
+Non-Accidental,2016 Hyundai Grand i10,1st Owner,"15,831 km", ,Petrol,"₹12,880/month","₹5,78,999",2016 Hyundai Grand i10,ASTA 1.2 (O) VTVT Manual
+Non-Accidental,2012 Hyundai i20,2nd Owner,"44,047 km", ,Petrol,"₹10,359/month","₹4,65,699",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2012 Maruti Swift Dzire,1st Owner,"97,067 km", ,Diesel,"₹10,166/month","₹4,56,999",2012 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2012 Ford Figo,1st Owner,"25,954 km","Year of Purchase
+January 2010",Petrol,"₹8,233/month","₹3,70,099",2012 Ford Figo,1.2 TITANIUM DURATEC Manual
+Non-Accidental,2011 Maruti Swift,2nd Owner,"60,118 km","Year of Purchase
+May 2010",Diesel,"₹8,695/month","₹3,90,899",2011 Maruti Swift,VDI Manual
+Non-Accidental,2010 Honda City,1st Owner,"1,22,392 km", ,Petrol,"₹8,001/month","₹3,59,699",2010 Honda City,V MT PETROL Manual
+Non-Accidental,2012 Maruti Swift Dzire,1st Owner,"1,30,343 km","Year of Purchase
+August 2014",Diesel,"₹10,468/month","₹4,70,599",2012 Maruti Swift Dzire,VDI BS IV Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"29,575 km","Year of Purchase
+March 2015",Petrol,"₹7,717/month","₹3,46,899",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2016 Hyundai Creta,1st Owner,"1,13,273 km", ,Diesel,"₹18,189/month","₹8,17,699",2016 Hyundai Creta,1.6 SX CRDI
+Non-Accidental,2013 Hyundai i20,1st Owner,"40,789 km","Year of Purchase
+November 2010",Petrol,"₹9,645/month","₹4,33,599",2013 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2020 Ford Ecosport,1st Owner,"39,594 km","Year of Purchase
+January 2017",Diesel,"₹19,829/month","₹8,91,399",2020 Ford Ecosport,1.5TITANIUM TDCI Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"19,215 km","Year of Purchase
+September 2017",Petrol,"₹14,021/month","₹6,30,299",2018 Maruti IGNIS,ALPHA 1.2 K12 Manual
+Non-Accidental,2017 Hyundai Elite i20,1st Owner,"21,559 km","Year of Purchase
+January 2015",Petrol,"₹14,216/month","₹6,39,099",2017 Hyundai Elite i20,SPORTZ 1.2 Manual
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"46,722 km", ,Petrol,"₹13,144/month","₹5,90,899",2017 Hyundai Grand i10,SPORTZ (O) 1.2 AT VTVT Manual
+Non-Accidental,2020 Ford Ecosport,1st Owner,"39,594 km","Year of Purchase
+January 2009",Diesel,"₹19,829/month","₹8,91,399",2020 Ford Ecosport,1.5TITANIUM TDCI Manual
+Non-Accidental,2010 Maruti Ritz,1st Owner,"38,191 km","Year of Purchase
+January 2014",Petrol,"₹7,883/month","₹3,54,399",2010 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2014 Maruti Swift Dzire,1st Owner,"42,772 km","Year of Purchase
+February 2012",Petrol,"₹11,405/month","₹5,12,699",2014 Maruti Swift Dzire,VXI 1.2 BS IV Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"34,729 km","Year of Purchase
+August 2014",Petrol,"₹8,486/month","₹3,81,499",2018 Maruti Alto K10,VXI Manual
+Non-Accidental,2013 Hyundai i20,1st Owner,"45,113 km","Year of Purchase
+February 2011",Petrol,"₹10,571/month","₹4,75,199",2013 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2012 Maruti Alto K10,1st Owner,"46,004 km","Year of Purchase
+May 2014",Petrol,"₹6,709/month","₹3,01,599",2012 Maruti Alto K10,VXI Manual
+Non-Accidental,2020 Ford Ecosport,1st Owner,"39,594 km","Year of Purchase
+November 2018",Diesel,"₹19,829/month","₹8,91,399",2020 Ford Ecosport,1.5TITANIUM TDCI Manual
+Non-Accidental,2018 Hyundai Creta,1st Owner,"58,543 km","Year of Purchase
+June 2016",Petrol,"₹26,707/month","₹12,00,599",2018 Hyundai Creta,1.6 SX PLUS AUTO PETROL Automatic
+Non-Accidental,2014 Maruti Ritz,1st Owner,"1,08,184 km","Year of Purchase
+August 2011",Petrol,"₹8,379/month","₹3,76,699",2014 Maruti Ritz,VXI BS IV Manual
+Non-Accidental,2019 KIA SELTOS,1st Owner,"14,566 km","Year of Purchase
+January 2016",Petrol,"₹31,999/month","₹14,38,499",2019 KIA SELTOS,HTX AT PETROL Automatic
+Non-Accidental,2013 Hyundai i20,1st Owner,"40,789 km","Year of Purchase
+May 2013",Petrol,"₹9,645/month","₹4,33,599",2013 Hyundai i20,MAGNA O 1.2 Manual
+Non-Accidental,2016 Maruti Alto 800,1st Owner,"39,998 km","Year of Purchase
+December 2013",Petrol,"₹6,464/month","₹2,90,599",2016 Maruti Alto 800,LXI Manual
+Non-Accidental,2017 Maruti IGNIS,1st Owner,"53,658 km","Year of Purchase
+December 2017",Petrol,"₹11,807/month","₹5,30,799",2017 Maruti IGNIS,DELTA 1.2 K12 AMT Automatic
+Non-Accidental,2018 Maruti Celerio,1st Owner,"33,277 km", ,Petrol,"₹11,572/month","₹5,20,199",2018 Maruti Celerio,ZXI ABS AMT Automatic
+Non-Accidental,2016 Maruti Alto K10,2nd Owner,"28,652 km", ,Petrol,"₹8,455/month","₹3,80,099",2016 Maruti Alto K10,VXI (O) AMT Automatic
+Non-Accidental,2018 Renault Kwid,1st Owner,"14,176 km","Year of Purchase
+February 2017",Petrol,"₹9,400/month","₹4,22,599",2018 Renault Kwid,RXT 1.0 EASY-R AT
+Non-Accidental,2014 Hyundai Eon,1st Owner,"25,857 km","Year of Purchase
+February 2014",Petrol,"₹6,898/month","₹3,10,099",2014 Hyundai Eon,MAGNA PLUS Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"29,928 km", ,Petrol,"₹8,141/month","₹3,65,999",2018 Maruti Alto K10,VXI OPT Manual
+Non-Accidental,2014 Hyundai Grand i10,1st Owner,"80,080 km","Year of Purchase
+June 2017",Petrol,"₹10,800/month","₹4,85,499",2014 Hyundai Grand i10,ASTA 1.2 AT VTVT Automatic
+Non-Accidental,2015 Maruti Alto K10,2nd Owner,"36,136 km","Year of Purchase
+February 2015",Petrol,"₹7,921/month","₹3,56,099",2015 Maruti Alto K10,VXI Manual
+Non-Accidental,2016 Tata Nano,2nd Owner,"16,815 km","Year of Purchase
+August 2016",Petrol,"₹5,299/month","₹2,38,199",2016 Tata Nano,TWIST XTA Automatic
+Non-Accidental,2016 Maruti Celerio,1st Owner,"42,195 km", ,Petrol,"₹9,676/month","₹4,34,999",2016 Maruti Celerio,ZXI OPT Manual
+Non-Accidental,2014 Maruti Celerio,1st Owner,"15,874 km", ,Petrol,"₹9,418/month","₹4,23,399",2014 Maruti Celerio,VXI AMT Automatic
+Non-Accidental,2014 Maruti Wagon R 1.0,1st Owner,"67,946 km","Year of Purchase
+March 2013",Petrol,"₹8,391/month","₹3,77,199",2014 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2014 Maruti Alto K10,1st Owner,"39,855 km", ,Petrol,"₹7,728/month","₹3,47,399",2014 Maruti Alto K10,VXI Manual
+Non-Accidental,2016 Hyundai Eon,2nd Owner,"12,373 km","Year of Purchase
+July 2015",Petrol,"₹6,907/month","₹3,10,499",2016 Hyundai Eon,ERA PLUS Manual
+Non-Accidental,2012 Hyundai i20,2nd Owner,"44,047 km","Year of Purchase
+August 2012",Petrol,"₹10,359/month","₹4,65,699",2012 Hyundai i20,SPORTZ 1.2 VTVT Manual
+Non-Accidental,2018 Maruti Celerio,1st Owner,"33,277 km", ,Petrol,"₹11,572/month","₹5,20,199",2018 Maruti Celerio,ZXI ABS AMT Automatic
+Non-Accidental,2017 Renault Kwid,1st Owner,"8,409 km", ,Petrol,"₹9,271/month","₹4,16,799",2017 Renault Kwid,RXL1.0 EASY-R AT Automatic
+Non-Accidental,2017 Hyundai Eon,1st Owner,"22,418 km", ,Petrol,"₹7,899/month","₹3,55,099",2017 Hyundai Eon,ERA PLUS (O) Manual
+Non-Accidental,2018 Hyundai NEW SANTRO,1st Owner,"17,323 km","Year of Purchase
+August 2019",Petrol,"₹11,972/month","₹5,38,199",2018 Hyundai NEW SANTRO,1.1 SPORTS AMT Manual
+Non-Accidental,2011 Maruti Wagon R 1.0,1st Owner,"1,26,386 km","Year of Purchase
+September 2010",Petrol,"₹6,191/month","₹2,78,299",2011 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2020 Maruti S PRESSO,1st Owner,"5,699 km", ,Petrol,"₹10,837/month","₹4,87,199",2020 Maruti S PRESSO,VXI AGS Automatic
+Non-Accidental,2017 Hyundai Eon,1st Owner,"22,418 km", ,Petrol,"₹7,899/month","₹3,55,099",2017 Hyundai Eon,ERA PLUS (O) Manual
+Non-Accidental,2012 Maruti Swift,1st Owner,"38,628 km","Year of Purchase
+March 2014",Petrol,"₹11,531/month","₹5,18,399",2012 Maruti Swift,VXI Manual
+Non-Accidental,2013 Maruti Alto 800,1st Owner,"22,668 km", ,Petrol,"₹6,409/month","₹2,88,099",2013 Maruti Alto 800,LXI Manual
+Non-Accidental,2010 Maruti Alto K10,1st Owner,"70,185 km","Year of Purchase
+April 2016",Petrol,"₹5,699/month","₹2,56,199",2010 Maruti Alto K10,VXI Manual
+Non-Accidental,2018 Renault Kwid,1st Owner,"14,176 km","Year of Purchase
+October 2017",Petrol,"₹9,400/month","₹4,22,599",2018 Renault Kwid,RXT 1.0 EASY-R AT
+Non-Accidental,2015 Maruti Alto K10,2nd Owner,"13,605 km", ,Petrol,"₹8,308/month","₹3,73,499",2015 Maruti Alto K10,VXI AMT Automatic
+Non-Accidental,2013 Maruti Wagon R 1.0,1st Owner,"46,248 km","Year of Purchase
+June 2013",Petrol,"₹8,235/month","₹3,70,199",2013 Maruti Wagon R 1.0,VXI Manual
+Non-Accidental,2018 Maruti IGNIS,1st Owner,"9,706 km","Year of Purchase
+March 2017",Petrol,"₹13,647/month","₹6,13,499",2018 Maruti IGNIS,DELTA 1.2 K12 AMT Automatic
+Non-Accidental,2017 Hyundai Grand i10,1st Owner,"1,14,810 km", ,Petrol,"₹11,907/month","₹5,35,299",2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2012 Hyundai i10,1st Owner,"82,823 km","Year of Purchase
+July 2009",Petrol,"₹7,554/month","₹3,39,599",2012 Hyundai i10,SPORTZ 1.2 KAPPA2 Manual
+Non-Accidental,2018 Maruti Celerio,1st Owner,"33,277 km", ,Petrol,"₹11,572/month","₹5,20,199",2018 Maruti Celerio,ZXI ABS AMT Automatic
+Non-Accidental,2017 Maruti Dzire,1st Owner,"20,049 km", ,Petrol,"₹14,405/month","₹6,47,599",2017 Maruti Dzire,VXI Manual
+Non-Accidental,2017 Maruti IGNIS,1st Owner,"44,756 km", ,Petrol,"₹14,187/month","₹6,37,799",2017 Maruti IGNIS,ALPHA 1.2 K12 DUAL TONE Manual
+Non-Accidental,2018 Maruti Alto K10,1st Owner,"15,426 km","Year of Purchase
+February 2018",Petrol,"₹10,197/month","₹4,58,399",2018 Maruti Alto K10,VXI (O) AMT Automatic
+Non-Accidental,2019 Hyundai Grand i10,1st Owner,"11,850 km", ,Petrol,"₹12,759/month","₹5,73,599",2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+February 2017",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2015 Maruti Celerio,1st Owner,"4,637 km","Year of Purchase
+November 2016",Petrol,"₹9,521/month","₹4,27,999",2015 Maruti Celerio,VXI Manual
+Non-Accidental,2017 Maruti Alto 800,2nd Owner,"10,742 km", ,Petrol,"₹7,903/month","₹3,55,299",2017 Maruti Alto 800,LXI Manual
+Non-Accidental,2016 Hyundai Grand i10,1st Owner,"61,025 km","Year of Purchase
+July 2016",Petrol,"₹10,077/month","₹4,52,999",2016 Hyundai Grand i10,MAGNA 1.2 VTVT Manual

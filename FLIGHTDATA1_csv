@@ -1,0 +1,2200 @@
+FlightNAME,Date,Arr_timr,dep_time,Fare,Stop,Time
+Air Asia,"1Nov5,953",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"2Nov5,953",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"3Nov5,953",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"4Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"5Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"6Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"7Nov5,954",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"8Nov5,954",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"9Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"10Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"11Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"12Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"13Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"14Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"15Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"16Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"17Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"18Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"19Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"20Nov5,954",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"21Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"22Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"23Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"24Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"25Nov2,456",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"26Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"27Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"28Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"29Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"30Nov2,352",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"1Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"2Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"3Nov5,953",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"4Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"5Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"6Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"7Nov5,954",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"8Nov5,954",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"9Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"10Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"11Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"12Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"13Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"14Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"15Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"16Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"17Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"18Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"19Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"20Nov5,954",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"21Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"22Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"23Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"24Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"25Nov2,456",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"26Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"27Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"28Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"29Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"30Nov2,352",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"1Nov5,953",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"2Nov5,953",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"3Nov5,953",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"4Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"5Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"6Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"7Nov5,954",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"8Nov5,954",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"9Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"10Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"11Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"12Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"13Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"14Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"15Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"16Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"17Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"18Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"19Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"20Nov5,954",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"21Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"22Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"23Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"24Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"25Nov2,456",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"26Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"27Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"28Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"29Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"30Nov2,352",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"1Nov5,953",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"2Nov5,953",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"3Nov5,953",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"4Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"5Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"6Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"7Nov5,954",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"8Nov5,954",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"9Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"10Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"11Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"12Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"13Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"14Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"15Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"16Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"17Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"18Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"19Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"20Nov5,954",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"21Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"22Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"23Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"24Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"25Nov2,456",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"26Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"27Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"28Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"29Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"30Nov2,352",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"1Nov5,953",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"2Nov5,953",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"3Nov5,953",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"4Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"5Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"6Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"7Nov5,954",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"8Nov5,954",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"9Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"10Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"11Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"12Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"13Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"14Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"15Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"16Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"17Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"18Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"19Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"20Nov5,954",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"21Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"22Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"23Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"24Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"25Nov2,456",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"26Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"27Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"28Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"29Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"30Nov2,352",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"1Nov5,953",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"2Nov5,953",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"3Nov5,953",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"4Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"5Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"6Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"7Nov5,954",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"8Nov5,954",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"9Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"10Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"11Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"12Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"13Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"14Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"15Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"16Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"17Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"18Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"19Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"20Nov5,954",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"21Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"22Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"23Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"24Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"25Nov2,456",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"26Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"27Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"28Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"29Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"30Nov2,352",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"1Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"2Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"3Nov5,953",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"4Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"5Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"6Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"7Nov5,954",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"8Nov5,954",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"9Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"10Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"11Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"12Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"13Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"14Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"15Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"16Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"17Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"18Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"19Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"20Nov5,954",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"21Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"22Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"23Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"24Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"25Nov2,456",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"26Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"27Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"28Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"29Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"30Nov2,352",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"1Nov5,953",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"2Nov5,953",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"3Nov5,953",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"4Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"5Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"6Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"7Nov5,954",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"8Nov5,954",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"9Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"10Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"11Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"12Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"13Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"14Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"15Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"16Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"17Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"18Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"19Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"20Nov5,954",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"21Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"22Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"23Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"24Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"25Nov2,456",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"26Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"27Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"28Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"29Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"30Nov2,352",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"1Nov5,953",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"2Nov5,953",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"3Nov5,953",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"4Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"5Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"6Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"7Nov5,954",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"8Nov5,954",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"9Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"10Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"11Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"12Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"13Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"14Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"15Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"16Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"17Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"18Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"19Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"20Nov5,954",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"21Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"22Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"23Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"24Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"25Nov2,456",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"26Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"27Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"28Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"29Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"30Nov2,352",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"1Nov5,953",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"2Nov5,953",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"3Nov5,953",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"4Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"5Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"6Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"7Nov5,954",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"8Nov5,954",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"9Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"10Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"11Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"12Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"13Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"14Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"15Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"16Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"17Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"18Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"19Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"20Nov5,954",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"21Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"22Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"23Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"24Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"25Nov2,456",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"26Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"27Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"28Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"29Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"30Nov2,352",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"1Nov5,953",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"2Nov5,953",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"3Nov5,953",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"4Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"5Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"6Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"7Nov5,954",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"8Nov5,954",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"9Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"10Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"11Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"12Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"13Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"14Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"15Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"16Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"17Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"18Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"19Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"20Nov5,954",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"21Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"22Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"23Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"24Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"25Nov2,456",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"26Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"27Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"28Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"29Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"30Nov2,352",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"1Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"2Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"3Nov5,953",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"4Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"5Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"6Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"7Nov5,954",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"8Nov5,954",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"9Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"10Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"11Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"12Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"13Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"14Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"15Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"16Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"17Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"18Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"19Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"20Nov5,954",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"21Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"22Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"23Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"24Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"25Nov2,456",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"26Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"27Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"28Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"29Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"30Nov2,352",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"1Nov5,953",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"2Nov5,953",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"3Nov5,953",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"4Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"5Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"6Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"7Nov5,954",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"8Nov5,954",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"9Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"10Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"11Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"12Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"13Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"14Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"15Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"16Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"17Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"18Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"19Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"20Nov5,954",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"21Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"22Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"23Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"24Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"25Nov2,456",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"26Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"27Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"28Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"29Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"30Nov2,352",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"1Nov5,953",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"2Nov5,953",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"3Nov5,953",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"4Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"5Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"6Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"7Nov5,954",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"8Nov5,954",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"9Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"10Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"11Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"12Nov4,931",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"13Nov4,931",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"14Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"15Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"16Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"17Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"18Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"19Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"20Nov5,954",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"21Nov2,456",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"22Nov2,456",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"23Nov2,456",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"24Nov2,456",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"25Nov2,456",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"26Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"27Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"28Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"29Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"30Nov2,352",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"1Nov5,953",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"2Nov5,953",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"3Nov5,953",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"4Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"5Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"6Nov4,931",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"7Nov5,954",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"8Nov5,954",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"9Nov4,931",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"10Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"11Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"12Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"13Nov4,931",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"14Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"15Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"16Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"17Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"18Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"19Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"20Nov5,954",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"21Nov2,456",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"22Nov2,456",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"23Nov2,456",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"24Nov2,456",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"25Nov2,456",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"26Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"27Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"28Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"29Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"30Nov2,352",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"1Nov5,953",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"2Nov5,953",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"3Nov5,953",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"4Nov5,953",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"5Nov4,931",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"6Nov4,931",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"7Nov5,954",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"8Nov5,954",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"9Nov4,931",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"10Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"11Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"12Nov4,931",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"13Nov4,931",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"14Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"15Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"16Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"17Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"18Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"19Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"20Nov5,954",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"21Nov2,456",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"22Nov2,456",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"23Nov2,456",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"24Nov2,456",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"25Nov2,456",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"26Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"27Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"28Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"29Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"30Nov2,352",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"1Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"2Nov5,953",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"3Nov5,953",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"4Nov5,953",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"5Nov4,931",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"6Nov4,931",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"7Nov5,954",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"8Nov5,954",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"9Nov4,931",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"10Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"11Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"12Nov4,931",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"13Nov4,931",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"14Nov5,953",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"15Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"16Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"17Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"18Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"19Nov4,931",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"20Nov5,954",08:00,10:10,"2,791",Non Stop,2h 10m
+Air Asia,"21Nov2,456",04:25,06:35,"2,456",Non Stop,2h 10m
+Go First,"22Nov2,456",07:00,09:10,"2,456",Non Stop,2h 10m
+Go First,"23Nov2,456",08:00,10:10,"2,456",Non Stop,2h 10m
+Go First,"24Nov2,456",02:40,04:55,"2,456",Non Stop,2h 15m
+IndiGo,"25Nov2,456",05:30,07:50,"2,456",Non Stop,2h 20m
+IndiGo,"26Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+SpiceJet,"27Nov2,456",06:30,08:50,"2,456",Non Stop,2h 20m
+IndiGo,"28Nov2,456",06:25,11:05,"2,456",1 Stop,4h 40m
+IndiGo,"29Nov2,456",05:20,11:05,"2,456",1 Stop,5h 45m
+IndiGo,"30Nov2,352",22:10,"04:45
++ 1 day","2,456",1 Stop,6h 35m
+IndiGo,"1Nov5,953",23:25,"07:10
++ 1 day","2,456",1 Stop,7h 45m
+IndiGo,"2Nov5,953",21:20,"07:10
++ 1 day","2,456",1 Stop,9h 50m
+IndiGo,"3Nov5,953",20:15,"07:10
++ 1 day","2,456",1 Stop,10h 55m
+Air India,"4Nov5,953",15:05,18:15,"2,476",1 Stop,3h 10m
+Air India,"5Nov4,931",17:50,21:35,"2,476",1 Stop,3h 45m
+Vistara,"6Nov4,931",06:00,08:00,"2,556",Non Stop,2h 00m
+Air Asia,"7Nov5,954",20:00,22:15,"2,757",Non Stop,2h 15m
+SpiceJet,"8Nov5,954",07:20,09:35,"2,772",Non Stop,2h 15m
+SpiceJet,"9Nov4,931",18:50,21:05,"2,772",Non Stop,2h 15m
+Go First,"10Nov4,931",19:40,21:55,"2,790",Non Stop,2h 15m
+Go First,"11Nov4,931",21:00,23:15,"2,790",Non Stop,2h 15m
+Go First,"12Nov4,931",10:30,12:50,"2,790",Non Stop,2h 20m
+Air India,"13Nov4,931",07:00,09:05,"2,791",Non Stop,2h 05m
+IndiGo,"14Nov5,953",02:30,04:40,"2,791",Non Stop,2h 10m
+Air India,"15Nov4,931",08:00,10:10,"2,791",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","16Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","17Nov4,931",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","18Nov4,931",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","19Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","20Nov5,954",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","21Nov2,456",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","22Nov2,456",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","23Nov2,456",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","24Nov2,456",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","25Nov2,456",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","26Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","27Nov2,456",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","28Nov2,456",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","29Nov2,456",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","30Nov2,352",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","1Nov5,953",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","2Nov5,953",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","3Nov5,953",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","4Nov5,953",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","5Nov4,931",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","6Nov4,931",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","7Nov5,954",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","8Nov5,954",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","9Nov4,931",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","10Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","11Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","12Nov4,931",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","13Nov4,931",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","14Nov5,953",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","15Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","16Nov4,931",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","17Nov4,931",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","18Nov4,931",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","19Nov4,931",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","20Nov5,954",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","21Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","22Nov2,456",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","23Nov2,456",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","24Nov2,456",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","25Nov2,456",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","26Nov2,456",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","27Nov2,456",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","28Nov2,456",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","29Nov2,456",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","30Nov2,352",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","1Nov5,953",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","2Nov5,953",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","3Nov5,953",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","4Nov5,953",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","5Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","6Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","7Nov5,954",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","8Nov5,954",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","9Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","10Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","11Nov4,931",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","12Nov4,931",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","13Nov4,931",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","14Nov5,953",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","15Nov4,931",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","16Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","17Nov4,931",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","18Nov4,931",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","19Nov4,931",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","20Nov5,954",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","21Nov2,456",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","22Nov2,456",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","23Nov2,456",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","24Nov2,456",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","25Nov2,456",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","26Nov2,456",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","27Nov2,456",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","28Nov2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","29Nov2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","30Nov2,352",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","1Nov5,953",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","2Nov5,953",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","3Nov5,953",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","4Nov5,953",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","5Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","6Nov4,931",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","7Nov5,954",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","8Nov5,954",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","9Nov4,931",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","10Nov4,931",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","11Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","12Nov4,931",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","13Nov4,931",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","14Nov5,953",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","15Nov4,931",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","16Nov4,931",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","17Nov4,931",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","18Nov4,931",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","19Nov4,931",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","20Nov5,954",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","21Nov2,456",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","22Nov2,456",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","23Nov2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","24Nov2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","25Nov2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","26Nov2,456",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","27Nov2,456",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","28Nov2,456",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","29Nov2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","30Nov2,352",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","1Nov5,953",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","2Nov5,953",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","3Nov5,953",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","4Nov5,953",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","5Nov4,931",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","6Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","7Nov5,954",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","8Nov5,954",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","9Nov4,931",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","10Nov4,931",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","11Nov4,931",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","12Nov4,931",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","13Nov4,931",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","14Nov5,953",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","15Nov4,931",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","16Nov4,931",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","17Nov4,931",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","18Nov4,931",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","19Nov4,931",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","20Nov5,954",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","21Nov2,456",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","22Nov2,456",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","23Nov2,456",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","24Nov2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","25Nov2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","26Nov2,456",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","27Nov2,456",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","28Nov2,456",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","29Nov2,456",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","30Nov2,352",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","1Nov5,953",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","2Nov5,953",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","3Nov5,953",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","4Nov5,953",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","5Nov4,931",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","6Nov4,931",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","7Nov5,954",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","8Nov5,954",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","9Nov4,931",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","10Nov4,931",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","11Nov4,931",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","12Nov4,931",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","13Nov4,931",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","14Nov5,953",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","15Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","16Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","17Nov4,931",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","18Nov4,931",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","19Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","20Nov5,954",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","21Nov2,456",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","22Nov2,456",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","23Nov2,456",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","24Nov2,456",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","25Nov2,456",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","26Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","27Nov2,456",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","28Nov2,456",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","29Nov2,456",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","30Nov2,352",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","1Nov5,953",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","2Nov5,953",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","3Nov5,953",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","4Nov5,953",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","5Nov4,931",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","6Nov4,931",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","7Nov5,954",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","8Nov5,954",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","9Nov4,931",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","10Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","11Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","12Nov4,931",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","13Nov4,931",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","14Nov5,953",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","15Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","16Nov4,931",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","17Nov4,931",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","18Nov4,931",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","19Nov4,931",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","20Nov5,954",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","21Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","22Nov2,456",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","23Nov2,456",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","24Nov2,456",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","25Nov2,456",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","26Nov2,456",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","27Nov2,456",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","28Nov2,456",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","29Nov2,456",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","30Nov2,352",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","1Nov5,953",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","2Nov5,953",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","3Nov5,953",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","4Nov5,953",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","5Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","6Nov4,931",14:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-744/632","7Nov5,954",09:25,16:00,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-798/1518","8Nov5,954",12:40,20:15,"5,953",1 Stop,2h 10m
+"Air Asia
+I5-721/941","9Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,2h 15m
+"Air Asia
+I5-784/941","10Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,2h 20m
+"Go First
+G8-323","11Nov4,931",18:50,20:45,"5,954",Non Stop,2h 20m
+"Go First
+G8-334","12Nov4,931",09:05,11:05,"5,954",Non Stop,2h 20m
+"Go First
+G8-530","13Nov4,931",06:15,08:20,"5,954",Non Stop,4h 40m
+"Go First
+G8-346","14Nov5,953",20:30,22:35,"5,954",Non Stop,5h 45m
+"Go First
+G8-330","15Nov4,931",21:30,23:35,"5,954",Non Stop,6h 35m
+"Go First
+G8-354","16Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,7h 45m
+"Go First
+G8-188/396","17Nov4,931",17:45,22:25,"5,954",1 Stop,9h 50m
+"Go First
+G8-194/380","18Nov4,931",08:10,13:00,"5,954",1 Stop,10h 55m
+"Go First
+G8-286/332","19Nov4,931",10:40,15:40,"5,954",1 Stop,3h 10m
+"Go First
+G8-717/537","20Nov5,954",15:30,21:05,"5,954",1 Stop,3h 45m
+"Go First
+G8-2511/352","21Nov2,456",13:30,19:20,"5,954",1 Stop,2h 00m
+"Go First
+G8-194/2606","22Nov2,456",08:10,14:55,"5,954",1 Stop,2h 15m
+"Go First
+G8-270/307","23Nov2,456",08:50,15:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-717/247","24Nov2,456",15:30,22:45,"5,954",1 Stop,2h 15m
+"Go First
+G8-194/332","25Nov2,456",08:10,15:40,"5,954",1 Stop,2h 15m
+"Vistara
+UK-975","26Nov2,456",06:00,08:00,"5,955",Non Stop,2h 15m
+"SpiceJet
+SG-611","27Nov2,456",18:40,20:40,"5,955",Non Stop,2h 20m
+"Air India
+AI-887","28Nov2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","29Nov2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","30Nov2,352",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","1Nov5,953",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","2Nov5,953",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","3Nov5,953",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","4Nov5,953",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","5Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","6Nov4,931",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","7Nov5,954",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","8Nov5,954",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","9Nov4,931",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","10Nov4,931",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","11Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","12Nov4,931",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","13Nov4,931",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","14Nov5,953",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","15Nov4,931",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","16Nov4,931",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","17Nov4,931",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","18Nov4,931",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","19Nov4,931",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","20Nov5,954",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","21Nov2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","22Nov2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","23Nov2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","24Nov2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","25Nov2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","26Nov2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","27Nov2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","28Nov2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","29Nov2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","30Nov2,352",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","1Nov5,953",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","2Nov5,953",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","3Nov5,953",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","4Nov5,953",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","5Nov4,931",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","6Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","7Nov5,954",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","8Nov5,954",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","9Nov4,931",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","10Nov4,931",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","11Nov4,931",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","12Nov4,931",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","13Nov4,931",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","14Nov5,953",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","15Nov4,931",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","16Nov4,931",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","17Nov4,931",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","18Nov4,931",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","19Nov4,931",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","20Nov5,954",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","21Nov2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","22Nov2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","23Nov2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","24Nov2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","25Nov2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","26Nov2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","27Nov2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","28Nov2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","29Nov2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","30Nov2,352",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","1Nov5,953",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","2Nov5,953",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","3Nov5,953",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","4Nov5,953",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","5Nov4,931",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","6Nov4,931",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","7Nov5,954",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","8Nov5,954",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","9Nov4,931",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","10Nov4,931",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","11Nov4,931",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","12Nov4,931",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","13Nov4,931",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","14Nov5,953",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","15Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","16Nov4,931",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","17Nov4,931",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","18Nov4,931",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","19Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","20Nov5,954",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","21Nov2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","22Nov2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","23Nov2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","24Nov2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","25Nov2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","26Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","27Nov2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","28Nov2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","29Nov2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","30Nov2,352",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","1Nov5,953",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","2Nov5,953",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","3Nov5,953",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","4Nov5,953",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","5Nov4,931",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","6Nov4,931",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","7Nov5,954",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","8Nov5,954",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","9Nov4,931",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","10Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","11Nov4,931",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","12Nov4,931",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","13Nov4,931",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","14Nov5,953",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","15Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","16Nov4,931",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","17Nov4,931",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","18Nov4,931",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","19Nov4,931",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","20Nov5,954",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","21Nov2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","22Nov2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","23Nov2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","24Nov2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","25Nov2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","26Nov2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","27Nov2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","28Nov2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","29Nov2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","30Nov2,352",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","1Nov5,953",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","2Nov5,953",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","3Nov5,953",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","4Nov5,953",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","5Nov4,931",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","6Nov4,931",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","7Nov5,954",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","8Nov5,954",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","9Nov4,931",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","10Nov4,931",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","11Nov4,931",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","12Nov4,931",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","13Nov4,931",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","14Nov5,953",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","15Nov4,931",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","16Nov4,931",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","17Nov4,931",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","18Nov4,931",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","19Nov4,931",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","20Nov5,954",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","21Nov2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","22Nov2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","23Nov2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","24Nov2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","25Nov2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","26Nov2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","27Nov2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","28Nov2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","29Nov2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","30Nov2,352",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","1Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","2Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","3Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","4Dec2,352",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","5Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","6Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","7Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","8Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","9Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","10Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","11Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","12Dec2,476",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","13Dec2,352",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","14Dec2,352",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","15Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","16Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","17Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","18Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","19Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","20Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","21Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","22Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","23Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","24Dec2,352",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","25Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","26Dec2,476",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","27Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","28Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","29Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","30Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","31Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","1Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","2Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","3Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","4Dec2,352",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","5Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","6Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","7Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","8Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","9Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","10Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","11Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","12Dec2,476",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","13Dec2,352",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","14Dec2,352",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","15Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","16Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","17Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","18Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","19Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","20Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","21Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","22Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","23Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","24Dec2,352",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","25Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","26Dec2,476",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","27Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","28Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","29Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","30Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","31Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","1Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","2Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","3Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","4Dec2,352",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","5Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","6Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","7Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","8Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","9Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","10Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","11Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","12Dec2,476",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","13Dec2,352",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","14Dec2,352",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","15Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","16Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","17Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","18Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","19Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","20Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","21Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","22Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","23Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","24Dec2,352",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","25Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","26Dec2,476",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","27Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","28Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","29Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","30Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","31Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","1Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","2Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","3Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","4Dec2,352",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","5Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","6Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","7Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","8Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","9Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","10Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","11Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","12Dec2,476",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","13Dec2,352",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","14Dec2,352",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","15Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","16Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","17Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","18Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","19Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","20Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","21Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","22Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","23Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","24Dec2,352",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","25Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","26Dec2,476",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","27Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","28Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","29Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","30Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","31Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","1Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","2Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","3Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","4Dec2,352",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","5Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","6Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","7Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","8Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","9Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","10Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","11Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","12Dec2,476",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","13Dec2,352",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","14Dec2,352",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","15Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","16Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","17Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","18Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","19Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","20Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","21Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","22Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","23Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","24Dec2,352",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","25Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","26Dec2,476",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","27Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","28Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","29Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","30Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","31Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","1Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","2Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","3Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","4Dec2,352",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","5Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","6Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","7Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","8Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","9Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","10Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","11Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","12Dec2,476",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","13Dec2,352",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","14Dec2,352",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","15Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","16Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","17Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","18Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","19Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","20Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","21Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","22Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","23Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","24Dec2,352",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","25Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","26Dec2,476",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","27Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","28Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","29Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","30Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","31Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","1Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","2Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","3Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","4Dec2,352",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","5Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","6Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","7Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","8Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","9Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","10Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","11Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","12Dec2,476",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","13Dec2,352",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","14Dec2,352",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","15Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","16Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","17Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","18Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","19Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","20Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","21Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","22Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","23Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","24Dec2,352",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","25Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","26Dec2,476",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","27Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","28Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","29Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","30Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","31Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","1Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","2Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","3Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","4Dec2,352",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","5Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","6Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","7Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","8Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","9Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","10Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","11Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","12Dec2,476",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","13Dec2,352",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","14Dec2,352",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","15Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","16Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","17Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","18Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","19Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","20Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","21Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","22Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","23Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","24Dec2,352",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","25Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","26Dec2,476",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","27Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","28Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","29Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","30Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","31Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","1Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","2Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","3Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","4Dec2,352",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","5Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","6Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","7Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","8Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","9Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","10Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","11Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","12Dec2,476",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","13Dec2,352",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","14Dec2,352",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","15Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","16Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","17Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","18Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","19Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","20Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","21Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","22Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","23Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","24Dec2,352",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","25Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","26Dec2,476",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","27Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","28Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","29Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","30Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","31Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","1Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","2Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","3Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","4Dec2,352",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","5Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","6Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","7Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","8Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","9Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","10Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","11Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","12Dec2,476",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","13Dec2,352",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","14Dec2,352",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","15Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","16Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","17Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","18Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","19Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","20Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","21Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","22Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","23Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","24Dec2,352",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","25Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","26Dec2,476",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","27Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","28Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","29Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","30Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","31Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","1Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","2Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","3Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","4Dec2,352",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","5Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","6Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","7Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","8Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","9Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","10Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","11Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","12Dec2,476",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","13Dec2,352",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","14Dec2,352",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","15Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","16Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","17Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","18Dec2,456",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","19Dec2,456",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","20Dec2,456",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","21Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","22Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","23Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","24Dec2,352",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","25Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","26Dec2,476",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","27Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","28Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","29Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","30Dec2,456",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","31Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","1Dec2,456",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","2Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","3Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","4Dec2,352",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","5Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","6Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","7Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","8Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","9Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
+"Air Asia
+I5-775/1518","10Dec2,456",14:40,20:15,"5,953",1 Stop,5h 35m
+"Air Asia
+I5-744/632","11Dec2,456",09:25,16:00,"5,953",1 Stop,6h 35m
+"Air Asia
+I5-798/1518","12Dec2,476",12:40,20:15,"5,953",1 Stop,7h 35m
+"Air Asia
+I5-721/941","13Dec2,352",18:40,"06:20
++ 1 day","5,953",1 Stop,11h 40m
+"Air Asia
+I5-784/941","14Dec2,352",16:15,"06:20
++ 1 day","5,953",1 Stop,14h 05m
+"Go First
+G8-323","15Dec2,456",18:50,20:45,"5,954",Non Stop,1h 55m
+"Go First
+G8-334","16Dec2,456",09:05,11:05,"5,954",Non Stop,2h 00m
+"Go First
+G8-530","17Dec2,456",06:15,08:20,"5,954",Non Stop,2h 05m
+"Go First
+G8-346","18Dec2,456",20:30,22:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-330","19Dec2,456",21:30,23:35,"5,954",Non Stop,2h 05m
+"Go First
+G8-354","20Dec2,456",22:45,"00:50
++ 1 day","5,954",Non Stop,2h 05m
+"Go First
+G8-188/396","21Dec2,456",17:45,22:25,"5,954",1 Stop,4h 40m
+"Go First
+G8-194/380","22Dec2,456",08:10,13:00,"5,954",1 Stop,4h 50m
+"Go First
+G8-286/332","23Dec2,456",10:40,15:40,"5,954",1 Stop,5h 00m
+"Go First
+G8-717/537","24Dec2,352",15:30,21:05,"5,954",1 Stop,5h 35m
+"Go First
+G8-2511/352","25Dec2,456",13:30,19:20,"5,954",1 Stop,5h 50m
+"Go First
+G8-194/2606","26Dec2,476",08:10,14:55,"5,954",1 Stop,6h 45m
+"Go First
+G8-270/307","27Dec2,456",08:50,15:45,"5,954",1 Stop,6h 55m
+"Go First
+G8-717/247","28Dec2,456",15:30,22:45,"5,954",1 Stop,7h 15m
+"Go First
+G8-194/332","29Dec2,456",08:10,15:40,"5,954",1 Stop,7h 30m
+"Vistara
+UK-975","30Dec2,456",06:00,08:00,"5,955",Non Stop,2h 00m
+"SpiceJet
+SG-611","31Dec2,456",18:40,20:40,"5,955",Non Stop,2h 00m
+"Air India
+AI-887","1Dec2,456",07:00,09:05,"5,955",Non Stop,2h 05m
+"IndiGo
+6E-2576","2Dec2,456",05:00,07:10,"5,955",Non Stop,2h 10m
+"IndiGo
+6E-6125","3Dec2,456",06:10,08:20,"5,955",Non Stop,2h 10m
